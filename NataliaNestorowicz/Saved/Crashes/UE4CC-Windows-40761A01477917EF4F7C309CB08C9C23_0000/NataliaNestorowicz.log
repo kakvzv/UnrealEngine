@@ -1,0 +1,1358 @@
+﻿Log file open, 01/23/20 18:46:36
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: NataliaNestorowicz
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.342773
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-7053642
+LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1909) (), CPU: Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz, GPU: Intel(R) HD Graphics 630
+LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line:  -EpicPortal -epicusername=a.shalashaska -epicuserid=42e74764c3654ac5a9e9f23c4c2bbd60 -epiclocale=pl-PL
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.01.23-17.46.37:359][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.01.23-17.46.37:359][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.01.23-17.46.37:359][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/PULPIT/studia/programowanie/UnrealEngine/NataliaNestorowicz/Saved/Config/Windows/Engine.ini]
+[2020.01.23-17.46.37:359][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.01.23-17.46.37:359][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/PULPIT/studia/programowanie/UnrealEngine/NataliaNestorowicz/Saved/Config/Windows/Engine.ini]
+[2020.01.23-17.46.37:359][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/PULPIT/studia/programowanie/UnrealEngine/NataliaNestorowicz/Saved/Config/Windows/Engine.ini]
+[2020.01.23-17.46.37:359][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.01.23-17.46.37:359][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.01.23-17.46.37:359][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.01.23-17.46.37:359][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.01.23-17.46.37:359][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.01.23-17.46.37:359][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.01.23-17.46.37:359][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.01.23-17.46.37:359][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.01.23-17.46.37:359][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.01.23-17.46.37:359][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.01.23-17.46.37:359][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.01.23-17.46.37:359][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.01.23-17.46.37:359][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.01.23-17.46.37:359][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/PULPIT/studia/programowanie/UnrealEngine/NataliaNestorowicz/Saved/Config/Windows/Engine.ini]
+[2020.01.23-17.46.37:359][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.01.23-17.46.37:359][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.01.23-17.46.37:359][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.01.23-17.46.37:359][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.01.23-17.46.37:359][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.01.23-17.46.37:359][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.01.23-17.46.37:359][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2020.01.23-17.46.37:359][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.01.23-17.46.37:359][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.01.23-17.46.37:359][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.01.23-17.46.37:359][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.01.23-17.46.37:359][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.01.23-17.46.37:359][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.01.23-17.46.37:359][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/PULPIT/studia/programowanie/UnrealEngine/NataliaNestorowicz/Saved/Config/Windows/Engine.ini]
+[2020.01.23-17.46.37:359][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/PULPIT/studia/programowanie/UnrealEngine/NataliaNestorowicz/Saved/Config/Windows/Engine.ini]
+[2020.01.23-17.46.37:376][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/PULPIT/studia/programowanie/UnrealEngine/NataliaNestorowicz/Saved/Config/Windows/Scalability.ini]
+[2020.01.23-17.46.37:376][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.01.23-17.46.37:376][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.01.23-17.46.37:376][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/PULPIT/studia/programowanie/UnrealEngine/NataliaNestorowicz/Saved/Config/Windows/Scalability.ini]
+[2020.01.23-17.46.37:376][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.01.23-17.46.37:376][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/PULPIT/studia/programowanie/UnrealEngine/NataliaNestorowicz/Saved/Config/Windows/Scalability.ini]
+[2020.01.23-17.46.37:377][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.01.23-17.46.37:377][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.01.23-17.46.37:377][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.01.23-17.46.37:377][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.01.23-17.46.37:377][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.01.23-17.46.37:377][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.01.23-17.46.37:377][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.01.23-17.46.37:377][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.01.23-17.46.37:377][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.01.23-17.46.37:377][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.01.23-17.46.37:377][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.01.23-17.46.37:377][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.01.23-17.46.37:377][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.01.23-17.46.37:377][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.01.23-17.46.37:377][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.01.23-17.46.37:377][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.01.23-17.46.37:377][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.01.23-17.46.37:377][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.01.23-17.46.37:377][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/PULPIT/studia/programowanie/UnrealEngine/NataliaNestorowicz/Saved/Config/Windows/Scalability.ini]
+[2020.01.23-17.46.37:377][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.01.23-17.46.37:377][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.01.23-17.46.37:377][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.01.23-17.46.37:377][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.01.23-17.46.37:377][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.01.23-17.46.37:377][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.01.23-17.46.37:377][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.01.23-17.46.37:377][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.01.23-17.46.37:377][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.01.23-17.46.37:377][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.01.23-17.46.37:377][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.01.23-17.46.37:377][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.01.23-17.46.37:377][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.01.23-17.46.37:377][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.01.23-17.46.37:377][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.01.23-17.46.37:377][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.01.23-17.46.37:377][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.01.23-17.46.37:377][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.01.23-17.46.37:377][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.01.23-17.46.37:377][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.01.23-17.46.37:377][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.01.23-17.46.37:377][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.01.23-17.46.37:377][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.01.23-17.46.37:377][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.01.23-17.46.37:377][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.01.23-17.46.37:377][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.01.23-17.46.37:377][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.01.23-17.46.37:377][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.01.23-17.46.37:377][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.01.23-17.46.37:377][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.01.23-17.46.37:377][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/PULPIT/studia/programowanie/UnrealEngine/NataliaNestorowicz/Saved/Config/Windows/Scalability.ini]
+[2020.01.23-17.46.37:377][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.01.23-17.46.37:377][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.01.23-17.46.37:377][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.01.23-17.46.37:377][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.01.23-17.46.37:377][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.01.23-17.46.37:377][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.01.23-17.46.37:377][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.01.23-17.46.37:377][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.01.23-17.46.37:377][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/PULPIT/studia/programowanie/UnrealEngine/NataliaNestorowicz/Saved/Config/Windows/Scalability.ini]
+[2020.01.23-17.46.37:377][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.01.23-17.46.37:377][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.01.23-17.46.37:377][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.01.23-17.46.37:377][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.01.23-17.46.37:377][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.01.23-17.46.37:378][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.01.23-17.46.37:378][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.01.23-17.46.37:378][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.01.23-17.46.37:378][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.01.23-17.46.37:378][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.01.23-17.46.37:378][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.01.23-17.46.37:378][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.01.23-17.46.37:378][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.01.23-17.46.37:378][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/PULPIT/studia/programowanie/UnrealEngine/NataliaNestorowicz/Saved/Config/Windows/Scalability.ini]
+[2020.01.23-17.46.37:378][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.01.23-17.46.37:378][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.01.23-17.46.37:378][  0]LogInit: Selected Device Profile: [Windows]
+[2020.01.23-17.46.37:378][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.01.23-17.46.37:397][  0]LogHAL: Display: Platform has ~ 8 GB [8470065152 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.01.23-17.46.37:397][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2020.01.23-17.46.37:397][  0]LogInit: Going up to parent DeviceProfile []
+[2020.01.23-17.46.37:397][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/PULPIT/studia/programowanie/UnrealEngine/NataliaNestorowicz/Saved/Config/Windows/Scalability.ini]
+[2020.01.23-17.46.37:397][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.01.23-17.46.37:397][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.01.23-17.46.37:397][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/PULPIT/studia/programowanie/UnrealEngine/NataliaNestorowicz/Saved/Config/Windows/Scalability.ini]
+[2020.01.23-17.46.37:397][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.01.23-17.46.37:397][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/PULPIT/studia/programowanie/UnrealEngine/NataliaNestorowicz/Saved/Config/Windows/Scalability.ini]
+[2020.01.23-17.46.37:397][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.01.23-17.46.37:397][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.01.23-17.46.37:397][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.01.23-17.46.37:397][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.01.23-17.46.37:397][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.01.23-17.46.37:397][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.01.23-17.46.37:397][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.01.23-17.46.37:397][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.01.23-17.46.37:397][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.01.23-17.46.37:397][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.01.23-17.46.37:397][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.01.23-17.46.37:397][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.01.23-17.46.37:397][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.01.23-17.46.37:397][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.01.23-17.46.37:397][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.01.23-17.46.37:397][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.01.23-17.46.37:397][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.01.23-17.46.37:397][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.01.23-17.46.37:397][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/PULPIT/studia/programowanie/UnrealEngine/NataliaNestorowicz/Saved/Config/Windows/Scalability.ini]
+[2020.01.23-17.46.37:397][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.01.23-17.46.37:397][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.01.23-17.46.37:397][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.01.23-17.46.37:397][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.01.23-17.46.37:397][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.01.23-17.46.37:397][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.01.23-17.46.37:397][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.01.23-17.46.37:397][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.01.23-17.46.37:397][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.01.23-17.46.37:397][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.01.23-17.46.37:397][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.01.23-17.46.37:397][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.01.23-17.46.37:397][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.01.23-17.46.37:397][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.01.23-17.46.37:397][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.01.23-17.46.37:397][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.01.23-17.46.37:397][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.01.23-17.46.37:397][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.01.23-17.46.37:397][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.01.23-17.46.37:397][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.01.23-17.46.37:397][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.01.23-17.46.37:397][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.01.23-17.46.37:397][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.01.23-17.46.37:397][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.01.23-17.46.37:397][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.01.23-17.46.37:397][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.01.23-17.46.37:397][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.01.23-17.46.37:397][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.01.23-17.46.37:397][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.01.23-17.46.37:397][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.01.23-17.46.37:397][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/PULPIT/studia/programowanie/UnrealEngine/NataliaNestorowicz/Saved/Config/Windows/Scalability.ini]
+[2020.01.23-17.46.37:397][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.01.23-17.46.37:398][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.01.23-17.46.37:398][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.01.23-17.46.37:398][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.01.23-17.46.37:398][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.01.23-17.46.37:398][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.01.23-17.46.37:398][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.01.23-17.46.37:398][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.01.23-17.46.37:398][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/PULPIT/studia/programowanie/UnrealEngine/NataliaNestorowicz/Saved/Config/Windows/Scalability.ini]
+[2020.01.23-17.46.37:398][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.01.23-17.46.37:398][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.01.23-17.46.37:398][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.01.23-17.46.37:398][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.01.23-17.46.37:398][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.01.23-17.46.37:398][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.01.23-17.46.37:398][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.01.23-17.46.37:398][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.01.23-17.46.37:398][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.01.23-17.46.37:398][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.01.23-17.46.37:398][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.01.23-17.46.37:398][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.01.23-17.46.37:398][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.01.23-17.46.37:398][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/PULPIT/studia/programowanie/UnrealEngine/NataliaNestorowicz/Saved/Config/Windows/Scalability.ini]
+[2020.01.23-17.46.37:398][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.01.23-17.46.37:398][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.01.23-17.46.37:398][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.01.23-17.46.37:398][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.01.23-17.46.37:398][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.01.23-17.46.37:398][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/PULPIT/studia/programowanie/UnrealEngine/NataliaNestorowicz/Saved/Config/Windows/Engine.ini]
+[2020.01.23-17.46.37:398][  0]LogInit: Computer: DESKTOP-CDH4FNG
+[2020.01.23-17.46.37:398][  0]LogInit: User: MSI
+[2020.01.23-17.46.37:398][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.01.23-17.46.37:398][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.01.23-17.46.37:399][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2020.01.23-17.46.37:399][  0]LogMemory: Platform Memory Stats for Windows
+[2020.01.23-17.46.37:399][  0]LogMemory: Process Physical Memory: 96.63 MB used, 96.63 MB peak
+[2020.01.23-17.46.37:399][  0]LogMemory: Process Virtual Memory: 90.40 MB used, 90.40 MB peak
+[2020.01.23-17.46.37:399][  0]LogMemory: Physical Memory: 6043.94 MB used,  2033.75 MB free, 8077.68 MB total
+[2020.01.23-17.46.37:399][  0]LogMemory: Virtual Memory: 4629.54 MB used,  134213096.00 MB free, 134217728.00 MB total
+[2020.01.23-17.46.37:939][  0]LogInit: Using OS detected language (pl-PL).
+[2020.01.23-17.46.37:940][  0]LogInit: Using OS detected locale (pl-PL).
+[2020.01.23-17.46.37:945][  0]LogTextLocalizationManager: No specific localization for 'pl-PL' exists, so the 'pl' localization will be used.
+[2020.01.23-17.46.37:946][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/pl/Editor.locres' could not be opened for reading!
+[2020.01.23-17.46.37:946][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/pl/EditorTutorials.locres' could not be opened for reading!
+[2020.01.23-17.46.37:946][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/pl/Keywords.locres' could not be opened for reading!
+[2020.01.23-17.46.37:946][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/pl/Category.locres' could not be opened for reading!
+[2020.01.23-17.46.37:946][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/pl/ToolTips.locres' could not be opened for reading!
+[2020.01.23-17.46.37:946][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/pl/PropertyNames.locres' could not be opened for reading!
+[2020.01.23-17.46.37:946][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/pl/Engine.locres' could not be opened for reading!
+[2020.01.23-17.46.37:948][  0]LogInit: Setting process to per monitor DPI aware
+[2020.01.23-17.46.38:016][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.01.23-17.46.38:016][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.01.23-17.46.38:480][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.01.23-17.46.38:480][  0]LogD3D11RHI: D3D11 adapters:
+[2020.01.23-17.46.38:572][  0]LogD3D11RHI:    0. 'NVIDIA GeForce MX150' (Feature Level 11_0)
+[2020.01.23-17.46.38:572][  0]LogD3D11RHI:       1983/0/4038 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.01.23-17.46.38:594][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2020.01.23-17.46.38:595][  0]LogD3D11RHI:       128/0/4038 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2020.01.23-17.46.38:600][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.01.23-17.46.38:600][  0]LogD3D11RHI:       0/0/4038 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.01.23-17.46.38:600][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.01.23-17.46.38:666][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.01.23-17.46.38:666][  0]LogD3D11RHI:     GPU DeviceId: 0x1d10 (for the marketing name, search the web for "GPU Device Id")
+[2020.01.23-17.46.38:666][  0]LogWindows: EnumDisplayDevices:
+[2020.01.23-17.46.38:666][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2020.01.23-17.46.38:667][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2020.01.23-17.46.38:667][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2020.01.23-17.46.38:667][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2020.01.23-17.46.38:667][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce MX150
+[2020.01.23-17.46.38:667][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2020.01.23-17.46.38:667][  0]LogD3D11RHI:      Driver Date: Unknown
+[2020.01.23-17.46.38:667][  0]LogRHI: Texture pool is 1388 MB (70% of 1983 MB)
+[2020.01.23-17.46.38:725][  0]LogD3D11RHI: Async texture creation enabled
+[2020.01.23-17.46.38:736][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.01.23-17.46.38:736][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.01.23-17.46.38:736][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.01.23-17.46.38:745][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.01.23-17.46.39:366][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2020.01.23-17.46.39:381][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2020.01.23-17.46.39:396][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2020.01.23-17.46.39:413][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2020.01.23-17.46.39:429][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2020.01.23-17.46.39:445][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2020.01.23-17.46.39:462][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2020.01.23-17.46.39:478][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2020.01.23-17.46.39:485][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2020.01.23-17.46.39:574][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2020.01.23-17.46.39:574][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2020.01.23-17.46.39:574][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2020.01.23-17.46.39:574][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2020.01.23-17.46.39:574][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2020.01.23-17.46.39:574][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2020.01.23-17.46.39:574][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2020.01.23-17.46.39:574][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2020.01.23-17.46.39:574][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2020.01.23-17.46.39:574][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2020.01.23-17.46.39:574][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2020.01.23-17.46.39:574][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2020.01.23-17.46.39:574][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2020.01.23-17.46.39:574][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2020.01.23-17.46.39:574][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2020.01.23-17.46.39:574][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2020.01.23-17.46.39:574][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2020.01.23-17.46.39:574][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2020.01.23-17.46.39:577][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2020.01.23-17.46.39:633][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2020.01.23-17.46.39:633][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2020.01.23-17.46.39:659][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2020.01.23-17.46.39:659][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2020.01.23-17.46.39:672][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2020.01.23-17.46.39:685][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2020.01.23-17.46.39:699][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2020.01.23-17.46.39:715][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2020.01.23-17.46.39:762][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2020.01.23-17.46.39:762][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2020.01.23-17.46.39:762][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.01.23-17.46.39:775][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.01.23-17.46.39:850][  0]LogShaderCompilers: Guid format shader working directory is -19 characters bigger than the processId version (D:/PULPIT/studia/programowanie/UnrealEngine/NataliaNestorowicz/Intermediate/Shaders/WorkingDirectory/19916/).
+[2020.01.23-17.46.39:850][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/MSI/AppData/Local/Temp/UnrealShaderWorkingDir/8A8EF92A4D6A32F9F1272CB5F6D09D51/'.
+[2020.01.23-17.46.39:854][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.01.23-17.46.39:854][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.01.23-17.46.39:854][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.01.23-17.46.40:490][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.01.23-17.46.40:560][  0]LogDerivedDataCache: Loaded boot cache 0.07s 71MB C:/Users/MSI/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2020.01.23-17.46.40:560][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/MSI/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2020.01.23-17.46.40:560][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/PULPIT/studia/programowanie/UnrealEngine/NataliaNestorowicz/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.01.23-17.46.40:560][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.01.23-17.46.40:560][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/PULPIT/studia/programowanie/UnrealEngine/NataliaNestorowicz/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.01.23-17.46.40:560][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.01.23-17.46.40:574][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.01.23-17.46.40:574][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.01.23-17.46.40:574][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.01.23-17.46.40:586][  0]LogDerivedDataCache: Using Local data cache path C:/Users/MSI/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.01.23-17.46.40:586][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.01.23-17.46.40:586][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.01.23-17.46.40:614][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.01.23-17.46.40:615][  0]LogSlate: Using FreeType 2.6.0
+[2020.01.23-17.46.40:615][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.01.23-17.46.40:725][  0]LogAssetRegistry: FAssetRegistry took 0.0351 seconds to start up
+[2020.01.23-17.46.41:310][  0]LogInit: Selected Device Profile: [Windows]
+[2020.01.23-17.46.41:503][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.01.23-17.46.41:503][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.01.23-17.46.41:503][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.01.23-17.46.41:503][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.01.23-17.46.41:503][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.01.23-17.46.41:519][  0]LogNetVersion: NataliaNestorowicz 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 2142977659)
+[2020.01.23-17.46.42:415][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.240262 seconds
+[2020.01.23-17.46.42:431][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2020.01.23-17.46.42:432][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2020.01.23-17.46.42:432][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.01.23-17.46.43:763][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.01.23-17.46.43:777][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.01.23-17.46.43:921][  0]SourceControl: Source control is disabled
+[2020.01.23-17.46.43:921][  0]SourceControl: Source control is disabled
+[2020.01.23-17.46.43:923][  0]SourceControl: Source control is disabled
+[2020.01.23-17.46.43:925][  0]SourceControl: Source control is disabled
+[2020.01.23-17.46.44:052][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.01.23-17.46.44:303][  0]LogOcInput: OculusInput pre-init called
+[2020.01.23-17.46.45:150][  0]LogEngine: Initializing Engine...
+[2020.01.23-17.46.45:151][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.01.23-17.46.45:152][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.01.23-17.46.45:388][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.01.23-17.46.45:407][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.01.23-17.46.45:446][  0]LogInit: XAudio2 using 'Głośniki (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.01.23-17.46.45:465][  0]LogInit: FAudioDevice initialized.
+[2020.01.23-17.46.45:465][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.01.23-17.46.45:553][  0]LogDerivedDataCache: Saved boot cache 0.09s 71MB C:/Users/MSI/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2020.01.23-17.46.45:560][  0]LogInit: Texture streaming: Enabled
+[2020.01.23-17.46.45:589][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.01.23-17.46.45:617][  0]LogInit: Transaction tracking system initialized
+[2020.01.23-17.46.45:654][  0]BlueprintLog: New page: Editor Load
+[2020.01.23-17.46.45:774][  0]LocalizationService: Localization service is disabled
+[2020.01.23-17.46.46:270][  0]LogFileCache: Scanning file cache for directory 'D:/PULPIT/studia/programowanie/UnrealEngine/NataliaNestorowicz/Content/' took 0.02s
+[2020.01.23-17.46.46:270][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.01.23-17.46.46:270][  0]LogCook: Display: Mobile HDR setting 1
+[2020.01.23-17.46.46:507][  0]SourceControl: Source control is disabled
+[2020.01.23-17.46.46:508][  0]Cmd: MAP LOAD FILE="D:/PULPIT/studia/programowanie/UnrealEngine/NataliaNestorowicz/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.01.23-17.46.46:525][  0]LightingResults: New page: Lighting Build
+[2020.01.23-17.46.46:530][  0]MapCheck: New page: Map Check
+[2020.01.23-17.46.46:530][  0]LightingResults: New page: Lighting Build
+[2020.01.23-17.46.46:556][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2020.01.23-17.46.48:671][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.01.23-17.46.48:716][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.01.23-17.46.48:745][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2020.01.23-17.46.48:745][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.01.23-17.46.48:745][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,087ms to complete.
+[2020.01.23-17.46.48:745][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 2.237
+[2020.01.23-17.46.48:936][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.23-17.46.48:946][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.23-17.46.48:955][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.23-17.46.48:965][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.23-17.46.48:986][  0]LogCollectionManager: Loaded 0 collections in 0.003546 seconds
+[2020.01.23-17.46.49:045][  0]LogFileCache: Scanning file cache for directory 'D:/PULPIT/studia/programowanie/UnrealEngine/NataliaNestorowicz/Saved/Collections/' took 0.01s
+[2020.01.23-17.46.49:045][  0]LogFileCache: Scanning file cache for directory 'D:/PULPIT/studia/programowanie/UnrealEngine/NataliaNestorowicz/Content/Developers/MSI/Collections/' took 0.01s
+[2020.01.23-17.46.49:045][  0]LogFileCache: Scanning file cache for directory 'D:/PULPIT/studia/programowanie/UnrealEngine/NataliaNestorowicz/Content/Collections/' took 0.00s
+[2020.01.23-17.46.49:045][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2020.01.23-17.46.49:064][  0]LogContentBrowser: Native class hierarchy populated in 0.0157 seconds. Added 2732 classes and 659 folders.
+[2020.01.23-17.46.49:087][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2020.01.23-17.46.49:096][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.23-17.46.49:102][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.23-17.46.49:105][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.23-17.46.49:108][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.23-17.46.49:111][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.23-17.46.49:114][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.23-17.46.49:117][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.23-17.46.49:120][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.23-17.46.49:123][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.23-17.46.49:126][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.23-17.46.49:129][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.23-17.46.49:131][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.23-17.46.49:134][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.23-17.46.49:138][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.23-17.46.49:141][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.23-17.46.49:144][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.23-17.46.49:147][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.23-17.46.49:151][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.23-17.46.49:154][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.23-17.46.49:157][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.23-17.46.49:160][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.23-17.46.49:163][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.23-17.46.49:166][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.23-17.46.49:170][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.23-17.46.49:173][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.23-17.46.49:177][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.23-17.46.49:369][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.01.23-17.46.49:399][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2020.01.23-17.46.49:532][  0]LogSlate: Took 0.000271 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.01.23-17.46.49:536][  0]LogSlate: Took 0.000375 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.01.23-17.46.49:550][  0]LogSlate: Took 0.001305 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.01.23-17.46.49:673][  0]LogRenderer: Reallocating scene render targets to support 988x440 Format 10 NumSamples 1 (Frame:1).
+[2020.01.23-17.46.49:955][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.01.23-17.46.49:955][  0]LogLoad: (Engine Initialization) Total time: 17.15 seconds
+[2020.01.23-17.46.49:955][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.01.23-17.46.50:000][  0]LogAssetRegistry: Asset discovery search completed in 9.2978 seconds
+[2020.01.23-17.46.50:003][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2020.01.23-17.46.50:003][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000065 seconds (updated 0 objects)
+[2020.01.23-17.46.50:023][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.01.23-17.46.50:065][  0]LogSlate: Took 0.001815 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.01.23-17.46.50:997][ 30]LogSlate: Took 0.000243 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.01.23-17.47.18:171][651]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_TableRound3)
+[2020.01.23-17.47.29:770][ 39]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-17.47.29:858][ 44]LogLinker: Warning: Can't resolve asset name
+[2020.01.23-17.48.22:092][646]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-17.48.26:207][869]LogAIModule: Creating AISystem for world Level_01
+[2020.01.23-17.48.26:230][869]LogAssetEditorManager: Opening Asset editor for World /Game/Level_01.Level_01
+[2020.01.23-17.48.26:259][869]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2020.01.23-17.48.26:263][869]Cmd: MAP LOAD FILE="D:/PULPIT/studia/programowanie/UnrealEngine/NataliaNestorowicz/Content/Level_01.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.01.23-17.48.26:263][869]LightingResults: New page: Lighting Build
+[2020.01.23-17.48.26:264][869]LoadErrors: New page: Loading map: Level_01.umap
+[2020.01.23-17.48.26:268][869]MapCheck: New page: Map Check
+[2020.01.23-17.48.26:268][869]LightingResults: New page: Lighting Build
+[2020.01.23-17.48.26:299][869]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2020.01.23-17.48.26:307][869]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.01.23-17.48.26:332][869]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2020.01.23-17.48.26:344][869]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.01.23-17.48.26:344][869]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,075ms to complete.
+[2020.01.23-17.48.26:344][869]LogFileHelpers: Loading map 'Level_01' took 0.084
+[2020.01.23-17.48.28:943][ 14]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.23-17.48.28:956][ 14]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level_01.Level_01:PersistentLevel' has LevelScriptBlueprint '/Game/Level_01.Level_01:PersistentLevel.Level_01' with GeneratedClass '/Game/Level_01.Level_01_C' with ClassGeneratedBy '/Game/Level_01.Level_01:PersistentLevel.Level_01'
+[2020.01.23-17.48.28:958][ 14]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.23-17.48.28:959][ 14]PIE: New page: PIE session: Level_01 (23 sty 2020, 19:48:28)
+[2020.01.23-17.48.28:976][ 14]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level_01
+[2020.01.23-17.48.28:983][ 14]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007343s)
+[2020.01.23-17.48.28:984][ 14]LogAIModule: Creating AISystem for world Level_01
+[2020.01.23-17.48.28:985][ 14]LogPlayLevel: PIE: World Init took: (0.001967s)
+[2020.01.23-17.48.28:985][ 14]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_01.Level_01 to /Game/UEDPIE_0_Level_01.Level_01 (0.009753s)
+[2020.01.23-17.48.29:008][ 14]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2020.01.23-17.48.29:042][ 14]LogInit: XAudio2 using 'Głośniki (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.01.23-17.48.29:058][ 14]LogInit: FAudioDevice initialized.
+[2020.01.23-17.48.29:112][ 14]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.01.23-17.48.29:121][ 14]LogWorld: Bringing World /Game/UEDPIE_0_Level_01.Level_01 up for play (max tick rate 60) at 2020.01.23-18.48.29
+[2020.01.23-17.48.29:123][ 14]LogWorld: Bringing up level for play took: 0.003172
+[2020.01.23-17.48.29:174][ 14]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0006 seconds. Added 20 classes and 0 folders.
+[2020.01.23-17.48.29:191][ 14]PIE: Play in editor start time for /Game/UEDPIE_0_Level_01 -0,623
+[2020.01.23-17.48.29:191][ 14]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level_01.Level_01:PersistentLevel' has LevelScriptBlueprint '/Game/Level_01.Level_01:PersistentLevel.Level_01' with GeneratedClass '/Game/Level_01.Level_01_C' with ClassGeneratedBy '/Game/Level_01.Level_01:PersistentLevel.Level_01'
+[2020.01.23-17.48.41:926][764]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level_01.Level_01:PersistentLevel' has LevelScriptBlueprint '/Game/Level_01.Level_01:PersistentLevel.Level_01' with GeneratedClass '/Game/Level_01.Level_01_C' with ClassGeneratedBy '/Game/Level_01.Level_01:PersistentLevel.Level_01'
+[2020.01.23-17.48.41:928][764]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.23-17.48.41:962][764]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.23-17.48.41:963][764]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level_01.Level_01:PersistentLevel' has LevelScriptBlueprint '/Game/Level_01.Level_01:PersistentLevel.Level_01' with GeneratedClass '/Game/Level_01.Level_01_C' with ClassGeneratedBy '/Game/Level_01.Level_01:PersistentLevel.Level_01'
+[2020.01.23-17.48.41:995][764]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.23-17.48.42:000][764]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2020.01.23-17.48.42:063][765]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2020.01.23-17.48.43:140][826]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-17.48.43:223][831]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.23-17.48.43:230][831]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level_01.Level_01:PersistentLevel' has LevelScriptBlueprint '/Game/Level_01.Level_01:PersistentLevel.Level_01' with GeneratedClass '/Game/Level_01.Level_01_C' with ClassGeneratedBy '/Game/Level_01.Level_01:PersistentLevel.Level_01'
+[2020.01.23-17.48.43:231][831]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.23-17.48.43:231][831]PIE: New page: PIE session: Level_01 (23 sty 2020, 19:48:43)
+[2020.01.23-17.48.43:232][831]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level_01
+[2020.01.23-17.48.43:239][831]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006667s)
+[2020.01.23-17.48.43:239][831]LogAIModule: Creating AISystem for world Level_01
+[2020.01.23-17.48.43:240][831]LogPlayLevel: PIE: World Init took: (0.001150s)
+[2020.01.23-17.48.43:240][831]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_01.Level_01 to /Game/UEDPIE_0_Level_01.Level_01 (0.008145s)
+[2020.01.23-17.48.43:264][831]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2020.01.23-17.48.43:288][831]LogInit: XAudio2 using 'Głośniki (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.01.23-17.48.43:300][831]LogInit: FAudioDevice initialized.
+[2020.01.23-17.48.43:329][831]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.01.23-17.48.43:331][831]LogWorld: Bringing World /Game/UEDPIE_0_Level_01.Level_01 up for play (max tick rate 60) at 2020.01.23-18.48.43
+[2020.01.23-17.48.43:331][831]LogWorld: Bringing up level for play took: 0.000839
+[2020.01.23-17.48.43:345][831]PIE: Play in editor start time for /Game/UEDPIE_0_Level_01 -0,469
+[2020.01.23-17.48.43:346][831]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level_01.Level_01:PersistentLevel' has LevelScriptBlueprint '/Game/Level_01.Level_01:PersistentLevel.Level_01' with GeneratedClass '/Game/Level_01.Level_01_C' with ClassGeneratedBy '/Game/Level_01.Level_01:PersistentLevel.Level_01'
+[2020.01.23-17.49.03:037][  9]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level_01.Level_01:PersistentLevel' has LevelScriptBlueprint '/Game/Level_01.Level_01:PersistentLevel.Level_01' with GeneratedClass '/Game/Level_01.Level_01_C' with ClassGeneratedBy '/Game/Level_01.Level_01:PersistentLevel.Level_01'
+[2020.01.23-17.49.03:038][  9]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.23-17.49.03:067][  9]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.23-17.49.03:068][  9]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level_01.Level_01:PersistentLevel' has LevelScriptBlueprint '/Game/Level_01.Level_01:PersistentLevel.Level_01' with GeneratedClass '/Game/Level_01.Level_01_C' with ClassGeneratedBy '/Game/Level_01.Level_01:PersistentLevel.Level_01'
+[2020.01.23-17.49.03:095][  9]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.23-17.49.03:098][  9]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2020.01.23-17.49.03:156][ 11]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2020.01.23-17.49.10:800][464]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-17.49.10:902][470]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.23-17.49.10:911][470]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level_01.Level_01:PersistentLevel' has LevelScriptBlueprint '/Game/Level_01.Level_01:PersistentLevel.Level_01' with GeneratedClass '/Game/Level_01.Level_01_C' with ClassGeneratedBy '/Game/Level_01.Level_01:PersistentLevel.Level_01'
+[2020.01.23-17.49.10:911][470]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.23-17.49.10:911][470]PIE: New page: PIE session: Level_01 (23 sty 2020, 19:49:10)
+[2020.01.23-17.49.10:912][470]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level_01
+[2020.01.23-17.49.10:916][470]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004412s)
+[2020.01.23-17.49.10:917][470]LogAIModule: Creating AISystem for world Level_01
+[2020.01.23-17.49.10:917][470]LogPlayLevel: PIE: World Init took: (0.001216s)
+[2020.01.23-17.49.10:918][470]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_01.Level_01 to /Game/UEDPIE_0_Level_01.Level_01 (0.005974s)
+[2020.01.23-17.49.10:946][470]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2020.01.23-17.49.10:982][470]LogInit: XAudio2 using 'Głośniki (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.01.23-17.49.10:999][470]LogInit: FAudioDevice initialized.
+[2020.01.23-17.49.11:028][470]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.01.23-17.49.11:029][470]LogWorld: Bringing World /Game/UEDPIE_0_Level_01.Level_01 up for play (max tick rate 60) at 2020.01.23-18.49.11
+[2020.01.23-17.49.11:030][470]LogWorld: Bringing up level for play took: 0.000993
+[2020.01.23-17.49.11:045][470]PIE: Play in editor start time for /Game/UEDPIE_0_Level_01 -0,77
+[2020.01.23-17.49.11:045][470]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level_01.Level_01:PersistentLevel' has LevelScriptBlueprint '/Game/Level_01.Level_01:PersistentLevel.Level_01' with GeneratedClass '/Game/Level_01.Level_01_C' with ClassGeneratedBy '/Game/Level_01.Level_01:PersistentLevel.Level_01'
+[2020.01.23-17.49.13:773][621]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level_01.Level_01:PersistentLevel' has LevelScriptBlueprint '/Game/Level_01.Level_01:PersistentLevel.Level_01' with GeneratedClass '/Game/Level_01.Level_01_C' with ClassGeneratedBy '/Game/Level_01.Level_01:PersistentLevel.Level_01'
+[2020.01.23-17.49.13:773][621]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.23-17.49.13:804][621]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.23-17.49.13:804][621]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level_01.Level_01:PersistentLevel' has LevelScriptBlueprint '/Game/Level_01.Level_01:PersistentLevel.Level_01' with GeneratedClass '/Game/Level_01.Level_01_C' with ClassGeneratedBy '/Game/Level_01.Level_01:PersistentLevel.Level_01'
+[2020.01.23-17.49.13:838][621]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.23-17.49.13:843][621]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2020.01.23-17.49.13:881][623]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2020.01.23-17.49.22:900][149]LogEditorViewport: Clicking on Actor (double click): PlayerStart (Player Start)
+[2020.01.23-17.49.27:430][415]Cmd: DELETE
+[2020.01.23-17.49.27:430][415]Cmd: ACTOR DELETE
+[2020.01.23-17.49.27:465][415]LogEditorActor: Deleted Actor: PlayerStart
+[2020.01.23-17.49.27:488][415]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2020.01.23-17.49.27:489][415]LogEditorActor: Deleted 1 Actors (0.044 secs)
+[2020.01.23-17.49.28:051][448]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-17.49.28:500][475]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.23-17.49.28:507][475]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level_01.Level_01:PersistentLevel' has LevelScriptBlueprint '/Game/Level_01.Level_01:PersistentLevel.Level_01' with GeneratedClass '/Game/Level_01.Level_01_C' with ClassGeneratedBy '/Game/Level_01.Level_01:PersistentLevel.Level_01'
+[2020.01.23-17.49.28:507][475]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.23-17.49.28:507][475]PIE: New page: PIE session: Level_01 (23 sty 2020, 19:49:28)
+[2020.01.23-17.49.28:508][475]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level_01
+[2020.01.23-17.49.28:511][475]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003077s)
+[2020.01.23-17.49.28:511][475]LogAIModule: Creating AISystem for world Level_01
+[2020.01.23-17.49.28:512][475]LogPlayLevel: PIE: World Init took: (0.001031s)
+[2020.01.23-17.49.28:512][475]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_01.Level_01 to /Game/UEDPIE_0_Level_01.Level_01 (0.004262s)
+[2020.01.23-17.49.28:536][475]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2020.01.23-17.49.28:560][475]LogInit: XAudio2 using 'Głośniki (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.01.23-17.49.28:573][475]LogInit: FAudioDevice initialized.
+[2020.01.23-17.49.28:602][475]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.01.23-17.49.28:604][475]LogWorld: Bringing World /Game/UEDPIE_0_Level_01.Level_01 up for play (max tick rate 60) at 2020.01.23-18.49.28
+[2020.01.23-17.49.28:604][475]LogWorld: Bringing up level for play took: 0.000594
+[2020.01.23-17.49.28:618][475]PIE: Play in editor start time for /Game/UEDPIE_0_Level_01 0,804
+[2020.01.23-17.49.28:618][475]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level_01.Level_01:PersistentLevel' has LevelScriptBlueprint '/Game/Level_01.Level_01:PersistentLevel.Level_01' with GeneratedClass '/Game/Level_01.Level_01_C' with ClassGeneratedBy '/Game/Level_01.Level_01:PersistentLevel.Level_01'
+[2020.01.23-17.49.29:920][550]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level_01.Level_01:PersistentLevel' has LevelScriptBlueprint '/Game/Level_01.Level_01:PersistentLevel.Level_01' with GeneratedClass '/Game/Level_01.Level_01_C' with ClassGeneratedBy '/Game/Level_01.Level_01:PersistentLevel.Level_01'
+[2020.01.23-17.49.29:920][550]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.23-17.49.29:951][550]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.23-17.49.29:951][550]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level_01.Level_01:PersistentLevel' has LevelScriptBlueprint '/Game/Level_01.Level_01:PersistentLevel.Level_01' with GeneratedClass '/Game/Level_01.Level_01_C' with ClassGeneratedBy '/Game/Level_01.Level_01:PersistentLevel.Level_01'
+[2020.01.23-17.49.29:980][550]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.23-17.49.29:983][550]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2020.01.23-17.49.30:051][553]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2020.01.23-17.49.32:867][717]Cmd: TRANSACTION UNDO
+[2020.01.23-17.49.32:867][717]LogEditorTransaction: Undo Delete Actors
+[2020.01.23-17.49.56:063][ 75]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2020.01.23-17.49.56:671][110]Cmd: DELETE
+[2020.01.23-17.49.56:671][110]Cmd: ACTOR DELETE
+[2020.01.23-17.49.56:676][110]LogEditorActor: Deleted Actor: PlayerStart
+[2020.01.23-17.49.56:705][110]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2020.01.23-17.49.56:705][110]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2020.01.23-17.49.58:014][189]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-17.50.01:544][397]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.01.23-17.50.01:965][422]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-17.50.02:066][428]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.23-17.50.02:072][428]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level_01.Level_01:PersistentLevel' has LevelScriptBlueprint '/Game/Level_01.Level_01:PersistentLevel.Level_01' with GeneratedClass '/Game/Level_01.Level_01_C' with ClassGeneratedBy '/Game/Level_01.Level_01:PersistentLevel.Level_01'
+[2020.01.23-17.50.02:073][428]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.23-17.50.02:073][428]PIE: New page: PIE session: Level_01 (23 sty 2020, 19:50:02)
+[2020.01.23-17.50.02:073][428]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level_01
+[2020.01.23-17.50.02:076][428]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003315s)
+[2020.01.23-17.50.02:077][428]LogAIModule: Creating AISystem for world Level_01
+[2020.01.23-17.50.02:077][428]LogPlayLevel: PIE: World Init took: (0.000987s)
+[2020.01.23-17.50.02:077][428]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_01.Level_01 to /Game/UEDPIE_0_Level_01.Level_01 (0.004505s)
+[2020.01.23-17.50.02:099][428]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2020.01.23-17.50.02:125][428]LogInit: XAudio2 using 'Głośniki (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.01.23-17.50.02:140][428]LogInit: FAudioDevice initialized.
+[2020.01.23-17.50.02:171][428]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.01.23-17.50.02:173][428]LogWorld: Bringing World /Game/UEDPIE_0_Level_01.Level_01 up for play (max tick rate 60) at 2020.01.23-18.50.02
+[2020.01.23-17.50.02:173][428]LogWorld: Bringing up level for play took: 0.000659
+[2020.01.23-17.50.02:189][428]PIE: Play in editor start time for /Game/UEDPIE_0_Level_01 0,375
+[2020.01.23-17.50.02:189][428]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level_01.Level_01:PersistentLevel' has LevelScriptBlueprint '/Game/Level_01.Level_01:PersistentLevel.Level_01' with GeneratedClass '/Game/Level_01.Level_01_C' with ClassGeneratedBy '/Game/Level_01.Level_01:PersistentLevel.Level_01'
+[2020.01.23-17.50.04:046][538]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level_01.Level_01:PersistentLevel' has LevelScriptBlueprint '/Game/Level_01.Level_01:PersistentLevel.Level_01' with GeneratedClass '/Game/Level_01.Level_01_C' with ClassGeneratedBy '/Game/Level_01.Level_01:PersistentLevel.Level_01'
+[2020.01.23-17.50.04:047][538]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.23-17.50.04:079][538]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.23-17.50.04:079][538]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level_01.Level_01:PersistentLevel' has LevelScriptBlueprint '/Game/Level_01.Level_01:PersistentLevel.Level_01' with GeneratedClass '/Game/Level_01.Level_01_C' with ClassGeneratedBy '/Game/Level_01.Level_01:PersistentLevel.Level_01'
+[2020.01.23-17.50.04:120][538]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.23-17.50.04:125][538]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2020.01.23-17.50.04:196][539]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2020.01.23-17.50.13:143][ 65]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-17.50.53:095][442]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.23-17.50.53:102][442]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level_01.Level_01:PersistentLevel' has LevelScriptBlueprint '/Game/Level_01.Level_01:PersistentLevel.Level_01' with GeneratedClass '/Game/Level_01.Level_01_C' with ClassGeneratedBy '/Game/Level_01.Level_01:PersistentLevel.Level_01'
+[2020.01.23-17.50.53:102][442]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.23-17.50.53:102][442]PIE: New page: PIE session: Level_01 (23 sty 2020, 19:50:53)
+[2020.01.23-17.50.53:103][442]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level_01
+[2020.01.23-17.50.53:106][442]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003406s)
+[2020.01.23-17.50.53:107][442]LogAIModule: Creating AISystem for world Level_01
+[2020.01.23-17.50.53:107][442]LogPlayLevel: PIE: World Init took: (0.000722s)
+[2020.01.23-17.50.53:107][442]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_01.Level_01 to /Game/UEDPIE_0_Level_01.Level_01 (0.004426s)
+[2020.01.23-17.50.53:132][442]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2020.01.23-17.50.53:164][442]LogInit: XAudio2 using 'Głośniki (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.01.23-17.50.53:180][442]LogInit: FAudioDevice initialized.
+[2020.01.23-17.50.53:208][442]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.01.23-17.50.53:210][442]LogWorld: Bringing World /Game/UEDPIE_0_Level_01.Level_01 up for play (max tick rate 60) at 2020.01.23-18.50.53
+[2020.01.23-17.50.53:210][442]LogWorld: Bringing up level for play took: 0.000630
+[2020.01.23-17.50.53:223][442]PIE: Play in editor start time for /Game/UEDPIE_0_Level_01 -0,59
+[2020.01.23-17.50.53:223][442]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level_01.Level_01:PersistentLevel' has LevelScriptBlueprint '/Game/Level_01.Level_01:PersistentLevel.Level_01' with GeneratedClass '/Game/Level_01.Level_01_C' with ClassGeneratedBy '/Game/Level_01.Level_01:PersistentLevel.Level_01'
+[2020.01.23-17.50.55:791][594]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level_01.Level_01:PersistentLevel' has LevelScriptBlueprint '/Game/Level_01.Level_01:PersistentLevel.Level_01' with GeneratedClass '/Game/Level_01.Level_01_C' with ClassGeneratedBy '/Game/Level_01.Level_01:PersistentLevel.Level_01'
+[2020.01.23-17.50.55:791][594]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.23-17.50.55:820][594]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.23-17.50.55:821][594]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level_01.Level_01:PersistentLevel' has LevelScriptBlueprint '/Game/Level_01.Level_01:PersistentLevel.Level_01' with GeneratedClass '/Game/Level_01.Level_01_C' with ClassGeneratedBy '/Game/Level_01.Level_01:PersistentLevel.Level_01'
+[2020.01.23-17.50.55:854][594]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.23-17.50.55:858][594]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2020.01.23-17.50.55:928][595]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2020.01.23-17.53.30:621][886]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.23-17.53.32:359][970]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.23-17.53.32:364][970]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/Level_01.Level_01:PersistentLevel.Level_01
+[2020.01.23-17.53.32:796][970]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 121 classes and 0 folders.
+[2020.01.23-17.53.33:799][970]LogSlate: Took 0.001920 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.01.23-17.53.33:950][971]LogSlate: Took 0.001478 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.01.23-17.55.09:549][ 87]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-17.55.16:946][108]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.23-17.56.18:069][399]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.23-17.56.46:613][977]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.23-17.56.46:622][977]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level_01.Level_01:PersistentLevel' has LevelScriptBlueprint '/Game/Level_01.Level_01:PersistentLevel.Level_01' with GeneratedClass '/Game/Level_01.Level_01_C' with ClassGeneratedBy '/Game/Level_01.Level_01:PersistentLevel.Level_01'
+[2020.01.23-17.56.46:623][977]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.23-17.56.46:623][977]PIE: New page: PIE session: Level_01 (23 sty 2020, 19:56:46)
+[2020.01.23-17.56.46:623][977]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level_01
+[2020.01.23-17.56.46:627][977]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004243s)
+[2020.01.23-17.56.46:632][977]LogAIModule: Creating AISystem for world Level_01
+[2020.01.23-17.56.46:632][977]LogPlayLevel: PIE: World Init took: (0.004659s)
+[2020.01.23-17.56.46:632][977]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_01.Level_01 to /Game/UEDPIE_0_Level_01.Level_01 (0.009085s)
+[2020.01.23-17.56.46:675][977]LogUObjectHash: Compacting FUObjectHashTables data took   3.81ms
+[2020.01.23-17.56.46:706][977]LogInit: XAudio2 using 'Głośniki (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.01.23-17.56.46:721][977]LogInit: FAudioDevice initialized.
+[2020.01.23-17.56.46:762][977]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.01.23-17.56.46:764][977]LogWorld: Bringing World /Game/UEDPIE_0_Level_01.Level_01 up for play (max tick rate 60) at 2020.01.23-18.56.46
+[2020.01.23-17.56.46:764][977]LogWorld: Bringing up level for play took: 0.000969
+[2020.01.23-17.56.46:780][977]PIE: Play in editor start time for /Game/UEDPIE_0_Level_01 0,966
+[2020.01.23-17.56.46:781][977]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level_01.Level_01:PersistentLevel' has LevelScriptBlueprint '/Game/Level_01.Level_01:PersistentLevel.Level_01' with GeneratedClass '/Game/Level_01.Level_01_C' with ClassGeneratedBy '/Game/Level_01.Level_01:PersistentLevel.Level_01'
+[2020.01.23-17.56.50:540][171]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-17.56.51:743][242]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level_01.Level_01:PersistentLevel' has LevelScriptBlueprint '/Game/Level_01.Level_01:PersistentLevel.Level_01' with GeneratedClass '/Game/Level_01.Level_01_C' with ClassGeneratedBy '/Game/Level_01.Level_01:PersistentLevel.Level_01'
+[2020.01.23-17.56.51:744][242]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.23-17.56.51:788][242]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.23-17.56.51:788][242]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level_01.Level_01:PersistentLevel' has LevelScriptBlueprint '/Game/Level_01.Level_01:PersistentLevel.Level_01' with GeneratedClass '/Game/Level_01.Level_01_C' with ClassGeneratedBy '/Game/Level_01.Level_01:PersistentLevel.Level_01'
+[2020.01.23-17.56.51:827][242]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.23-17.56.51:832][242]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2020.01.23-17.56.51:895][243]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2020.01.23-17.56.52:834][295]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-17.56.52:899][299]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.23-17.56.52:906][299]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level_01.Level_01:PersistentLevel' has LevelScriptBlueprint '/Game/Level_01.Level_01:PersistentLevel.Level_01' with GeneratedClass '/Game/Level_01.Level_01_C' with ClassGeneratedBy '/Game/Level_01.Level_01:PersistentLevel.Level_01'
+[2020.01.23-17.56.52:906][299]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.23-17.56.52:906][299]PIE: New page: PIE session: Level_01 (23 sty 2020, 19:56:52)
+[2020.01.23-17.56.52:906][299]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level_01
+[2020.01.23-17.56.52:909][299]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003070s)
+[2020.01.23-17.56.52:910][299]LogAIModule: Creating AISystem for world Level_01
+[2020.01.23-17.56.52:910][299]LogPlayLevel: PIE: World Init took: (0.001061s)
+[2020.01.23-17.56.52:910][299]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_01.Level_01 to /Game/UEDPIE_0_Level_01.Level_01 (0.004397s)
+[2020.01.23-17.56.52:946][299]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2020.01.23-17.56.52:976][299]LogInit: XAudio2 using 'Głośniki (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.01.23-17.56.52:995][299]LogInit: FAudioDevice initialized.
+[2020.01.23-17.56.53:025][299]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.01.23-17.56.53:027][299]LogWorld: Bringing World /Game/UEDPIE_0_Level_01.Level_01 up for play (max tick rate 60) at 2020.01.23-18.56.53
+[2020.01.23-17.56.53:027][299]LogWorld: Bringing up level for play took: 0.000636
+[2020.01.23-17.56.53:041][299]PIE: Play in editor start time for /Game/UEDPIE_0_Level_01 -0,773
+[2020.01.23-17.56.53:042][299]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level_01.Level_01:PersistentLevel' has LevelScriptBlueprint '/Game/Level_01.Level_01:PersistentLevel.Level_01' with GeneratedClass '/Game/Level_01.Level_01_C' with ClassGeneratedBy '/Game/Level_01.Level_01:PersistentLevel.Level_01'
+[2020.01.23-17.56.58:299][607]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level_01.Level_01:PersistentLevel' has LevelScriptBlueprint '/Game/Level_01.Level_01:PersistentLevel.Level_01' with GeneratedClass '/Game/Level_01.Level_01_C' with ClassGeneratedBy '/Game/Level_01.Level_01:PersistentLevel.Level_01'
+[2020.01.23-17.56.58:299][607]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.23-17.56.58:333][607]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.23-17.56.58:333][607]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level_01.Level_01:PersistentLevel' has LevelScriptBlueprint '/Game/Level_01.Level_01:PersistentLevel.Level_01' with GeneratedClass '/Game/Level_01.Level_01_C' with ClassGeneratedBy '/Game/Level_01.Level_01:PersistentLevel.Level_01'
+[2020.01.23-17.56.58:364][607]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.23-17.56.58:368][607]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2020.01.23-17.56.58:432][608]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2020.01.23-17.57.03:023][871]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2020.01.23-17.57.09:372][247]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.01.23-17.57.10:062][286]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-17.57.10:128][290]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.23-17.57.10:134][290]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level_01.Level_01:PersistentLevel' has LevelScriptBlueprint '/Game/Level_01.Level_01:PersistentLevel.Level_01' with GeneratedClass '/Game/Level_01.Level_01_C' with ClassGeneratedBy '/Game/Level_01.Level_01:PersistentLevel.Level_01'
+[2020.01.23-17.57.10:134][290]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.23-17.57.10:134][290]PIE: New page: PIE session: Level_01 (23 sty 2020, 19:57:10)
+[2020.01.23-17.57.10:135][290]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level_01
+[2020.01.23-17.57.10:138][290]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003286s)
+[2020.01.23-17.57.10:139][290]LogAIModule: Creating AISystem for world Level_01
+[2020.01.23-17.57.10:139][290]LogPlayLevel: PIE: World Init took: (0.000830s)
+[2020.01.23-17.57.10:139][290]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_01.Level_01 to /Game/UEDPIE_0_Level_01.Level_01 (0.004340s)
+[2020.01.23-17.57.10:172][290]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2020.01.23-17.57.10:202][290]LogInit: XAudio2 using 'Głośniki (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.01.23-17.57.10:218][290]LogInit: FAudioDevice initialized.
+[2020.01.23-17.57.10:248][290]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.01.23-17.57.10:249][290]LogWorld: Bringing World /Game/UEDPIE_0_Level_01.Level_01 up for play (max tick rate 60) at 2020.01.23-18.57.10
+[2020.01.23-17.57.10:249][290]LogWorld: Bringing up level for play took: 0.000617
+[2020.01.23-17.57.10:264][290]PIE: Play in editor start time for /Game/UEDPIE_0_Level_01 0,45
+[2020.01.23-17.57.10:264][290]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level_01.Level_01:PersistentLevel' has LevelScriptBlueprint '/Game/Level_01.Level_01:PersistentLevel.Level_01' with GeneratedClass '/Game/Level_01.Level_01_C' with ClassGeneratedBy '/Game/Level_01.Level_01:PersistentLevel.Level_01'
+[2020.01.23-17.57.23:556][ 78]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level_01.Level_01:PersistentLevel' has LevelScriptBlueprint '/Game/Level_01.Level_01:PersistentLevel.Level_01' with GeneratedClass '/Game/Level_01.Level_01_C' with ClassGeneratedBy '/Game/Level_01.Level_01:PersistentLevel.Level_01'
+[2020.01.23-17.57.23:556][ 78]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.23-17.57.23:591][ 78]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.23-17.57.23:591][ 78]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level_01.Level_01:PersistentLevel' has LevelScriptBlueprint '/Game/Level_01.Level_01:PersistentLevel.Level_01' with GeneratedClass '/Game/Level_01.Level_01_C' with ClassGeneratedBy '/Game/Level_01.Level_01:PersistentLevel.Level_01'
+[2020.01.23-17.57.23:627][ 78]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.23-17.57.23:630][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2020.01.23-17.57.23:692][ 79]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2020.01.23-17.57.26:712][197]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.23-17.58.29:457][497]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-17.58.29:556][503]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.23-17.58.29:570][503]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level_01.Level_01:PersistentLevel' has LevelScriptBlueprint '/Game/Level_01.Level_01:PersistentLevel.Level_01' with GeneratedClass '/Game/Level_01.Level_01_C' with ClassGeneratedBy '/Game/Level_01.Level_01:PersistentLevel.Level_01'
+[2020.01.23-17.58.29:570][503]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.23-17.58.29:570][503]PIE: New page: PIE session: Level_01 (23 sty 2020, 19:58:29)
+[2020.01.23-17.58.29:571][503]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level_01
+[2020.01.23-17.58.29:584][503]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012938s)
+[2020.01.23-17.58.29:587][503]LogAIModule: Creating AISystem for world Level_01
+[2020.01.23-17.58.29:587][503]LogPlayLevel: PIE: World Init took: (0.003502s)
+[2020.01.23-17.58.29:587][503]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_01.Level_01 to /Game/UEDPIE_0_Level_01.Level_01 (0.016805s)
+[2020.01.23-17.58.29:636][503]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2020.01.23-17.58.29:673][503]LogInit: XAudio2 using 'Głośniki (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.01.23-17.58.29:690][503]LogInit: FAudioDevice initialized.
+[2020.01.23-17.58.29:723][503]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.01.23-17.58.29:725][503]LogWorld: Bringing World /Game/UEDPIE_0_Level_01.Level_01 up for play (max tick rate 60) at 2020.01.23-18.58.29
+[2020.01.23-17.58.29:725][503]LogWorld: Bringing up level for play took: 0.000826
+[2020.01.23-17.58.29:740][503]PIE: Play in editor start time for /Game/UEDPIE_0_Level_01 -0,074
+[2020.01.23-17.58.29:740][503]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level_01.Level_01:PersistentLevel' has LevelScriptBlueprint '/Game/Level_01.Level_01:PersistentLevel.Level_01' with GeneratedClass '/Game/Level_01.Level_01_C' with ClassGeneratedBy '/Game/Level_01.Level_01:PersistentLevel.Level_01'
+[2020.01.23-17.58.57:141][133]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level_01.Level_01:PersistentLevel' has LevelScriptBlueprint '/Game/Level_01.Level_01:PersistentLevel.Level_01' with GeneratedClass '/Game/Level_01.Level_01_C' with ClassGeneratedBy '/Game/Level_01.Level_01:PersistentLevel.Level_01'
+[2020.01.23-17.58.57:141][133]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.23-17.58.57:182][133]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.23-17.58.57:182][133]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level_01.Level_01:PersistentLevel' has LevelScriptBlueprint '/Game/Level_01.Level_01:PersistentLevel.Level_01' with GeneratedClass '/Game/Level_01.Level_01_C' with ClassGeneratedBy '/Game/Level_01.Level_01:PersistentLevel.Level_01'
+[2020.01.23-17.58.57:216][133]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.23-17.58.57:221][133]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2020.01.23-17.58.57:285][134]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2020.01.23-17.59.03:761][516]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.23-17.59.06:729][672]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.23-17.59.38:403][324]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2020.01.23-17.59.40:718][461]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-17.59.46:514][782]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.01.23-17.59.50:167][981]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.01.23-17.59.51:799][ 65]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2020.01.23-18.00.00:393][537]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.23-18.00.00:842][561]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2020.01.23-18.00.05:069][805]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.01.23-18.00.06:396][882]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-18.00.06:478][887]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.23-18.00.06:491][887]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level_01.Level_01:PersistentLevel' has LevelScriptBlueprint '/Game/Level_01.Level_01:PersistentLevel.Level_01' with GeneratedClass '/Game/Level_01.Level_01_C' with ClassGeneratedBy '/Game/Level_01.Level_01:PersistentLevel.Level_01'
+[2020.01.23-18.00.06:491][887]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.23-18.00.06:492][887]PIE: New page: PIE session: Level_01 (23 sty 2020, 20:00:06)
+[2020.01.23-18.00.06:492][887]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level_01
+[2020.01.23-18.00.06:504][887]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011694s)
+[2020.01.23-18.00.06:505][887]LogAIModule: Creating AISystem for world Level_01
+[2020.01.23-18.00.06:505][887]LogPlayLevel: PIE: World Init took: (0.001234s)
+[2020.01.23-18.00.06:505][887]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_01.Level_01 to /Game/UEDPIE_0_Level_01.Level_01 (0.013238s)
+[2020.01.23-18.00.06:554][887]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2020.01.23-18.00.06:610][887]LogInit: XAudio2 using 'Głośniki (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.01.23-18.00.06:639][887]LogInit: FAudioDevice initialized.
+[2020.01.23-18.00.06:671][887]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.01.23-18.00.06:672][887]LogWorld: Bringing World /Game/UEDPIE_0_Level_01.Level_01 up for play (max tick rate 60) at 2020.01.23-19.00.06
+[2020.01.23-18.00.06:673][887]LogWorld: Bringing up level for play took: 0.000782
+[2020.01.23-18.00.06:687][887]PIE: Play in editor start time for /Game/UEDPIE_0_Level_01 0,873
+[2020.01.23-18.00.06:688][887]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level_01.Level_01:PersistentLevel' has LevelScriptBlueprint '/Game/Level_01.Level_01:PersistentLevel.Level_01' with GeneratedClass '/Game/Level_01.Level_01_C' with ClassGeneratedBy '/Game/Level_01.Level_01:PersistentLevel.Level_01'
+[2020.01.23-18.00.19:231][632]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level_01.Level_01:PersistentLevel' has LevelScriptBlueprint '/Game/Level_01.Level_01:PersistentLevel.Level_01' with GeneratedClass '/Game/Level_01.Level_01_C' with ClassGeneratedBy '/Game/Level_01.Level_01:PersistentLevel.Level_01'
+[2020.01.23-18.00.19:232][632]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.23-18.00.19:275][632]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.23-18.00.19:275][632]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level_01.Level_01:PersistentLevel' has LevelScriptBlueprint '/Game/Level_01.Level_01:PersistentLevel.Level_01' with GeneratedClass '/Game/Level_01.Level_01_C' with ClassGeneratedBy '/Game/Level_01.Level_01:PersistentLevel.Level_01'
+[2020.01.23-18.00.19:327][632]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.23-18.00.19:335][632]LogUObjectHash: Compacting FUObjectHashTables data took   3.90ms
+[2020.01.23-18.00.19:415][633]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2020.01.23-18.00.50:785][110]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2020.01.23-18.00.50:791][110]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level_01" FILE="D:/PULPIT/studia/programowanie/UnrealEngine/NataliaNestorowicz/Saved/Autosaves/Game/Level_01_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.01.23-18.00.51:231][110]LogSavePackage: Moving 'D:/PULPIT/studia/programowanie/UnrealEngine/NataliaNestorowicz/Saved/Level_01_Auto12EFE67874F7E5A28BB103EB5FACA0C01.tmp' to 'D:/PULPIT/studia/programowanie/UnrealEngine/NataliaNestorowicz/Saved/Autosaves/Game/Level_01_Auto1.umap'
+[2020.01.23-18.00.51:266][110]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Level_01' took 0.509
+[2020.01.23-18.00.51:266][110]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.509
+[2020.01.23-18.01.32:821][235]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.23-18.03.15:093][887]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-18.03.15:193][893]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.23-18.03.15:199][893]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level_01.Level_01:PersistentLevel' has LevelScriptBlueprint '/Game/Level_01.Level_01:PersistentLevel.Level_01' with GeneratedClass '/Game/Level_01.Level_01_C' with ClassGeneratedBy '/Game/Level_01.Level_01:PersistentLevel.Level_01'
+[2020.01.23-18.03.15:199][893]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.23-18.03.15:199][893]PIE: New page: PIE session: Level_01 (23 sty 2020, 20:03:15)
+[2020.01.23-18.03.15:199][893]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level_01
+[2020.01.23-18.03.15:205][893]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005633s)
+[2020.01.23-18.03.15:206][893]LogAIModule: Creating AISystem for world Level_01
+[2020.01.23-18.03.15:206][893]LogPlayLevel: PIE: World Init took: (0.001046s)
+[2020.01.23-18.03.15:206][893]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_01.Level_01 to /Game/UEDPIE_0_Level_01.Level_01 (0.006844s)
+[2020.01.23-18.03.15:238][893]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2020.01.23-18.03.15:262][893]LogInit: XAudio2 using 'Głośniki (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.01.23-18.03.15:278][893]LogInit: FAudioDevice initialized.
+[2020.01.23-18.03.15:305][893]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.01.23-18.03.15:307][893]LogWorld: Bringing World /Game/UEDPIE_0_Level_01.Level_01 up for play (max tick rate 60) at 2020.01.23-19.03.15
+[2020.01.23-18.03.15:307][893]LogWorld: Bringing up level for play took: 0.000670
+[2020.01.23-18.03.15:322][893]PIE: Play in editor start time for /Game/UEDPIE_0_Level_01 -0,492
+[2020.01.23-18.03.15:322][893]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level_01.Level_01:PersistentLevel' has LevelScriptBlueprint '/Game/Level_01.Level_01:PersistentLevel.Level_01' with GeneratedClass '/Game/Level_01.Level_01_C' with ClassGeneratedBy '/Game/Level_01.Level_01:PersistentLevel.Level_01'
+[2020.01.23-18.03.25:757][517]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level_01.Level_01:PersistentLevel' has LevelScriptBlueprint '/Game/Level_01.Level_01:PersistentLevel.Level_01' with GeneratedClass '/Game/Level_01.Level_01_C' with ClassGeneratedBy '/Game/Level_01.Level_01:PersistentLevel.Level_01'
+[2020.01.23-18.03.25:757][517]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.23-18.03.25:793][517]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.23-18.03.25:793][517]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level_01.Level_01:PersistentLevel' has LevelScriptBlueprint '/Game/Level_01.Level_01:PersistentLevel.Level_01' with GeneratedClass '/Game/Level_01.Level_01_C' with ClassGeneratedBy '/Game/Level_01.Level_01:PersistentLevel.Level_01'
+[2020.01.23-18.03.25:848][517]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.23-18.03.25:855][517]LogUObjectHash: Compacting FUObjectHashTables data took   4.35ms
+[2020.01.23-18.03.25:935][518]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2020.01.23-18.03.26:827][565]Cmd: TRANSACTION UNDO
+[2020.01.23-18.03.26:827][565]LogEditorTransaction: Undo Rotate Actors
+[2020.01.23-18.03.27:987][628]Cmd: TRANSACTION UNDO
+[2020.01.23-18.03.27:987][628]LogEditorTransaction: Undo Clicking on Actors
+[2020.01.23-18.03.28:699][669]Cmd: TRANSACTION UNDO
+[2020.01.23-18.03.28:699][669]LogEditorTransaction: Undo Clicking on Actors
+[2020.01.23-18.03.29:118][693]Cmd: TRANSACTION UNDO
+[2020.01.23-18.03.29:118][693]LogEditorTransaction: Undo Move Actors
+[2020.01.23-18.03.29:489][714]Cmd: TRANSACTION UNDO
+[2020.01.23-18.03.29:489][714]LogEditorTransaction: Undo Move Actors
+[2020.01.23-18.03.29:840][735]Cmd: TRANSACTION UNDO
+[2020.01.23-18.03.29:840][735]LogEditorTransaction: Undo Move Actors
+[2020.01.23-18.03.30:273][761]Cmd: TRANSACTION UNDO
+[2020.01.23-18.03.30:273][761]LogEditorTransaction: Undo Clicking on Actors
+[2020.01.23-18.03.30:619][781]Cmd: TRANSACTION UNDO
+[2020.01.23-18.03.30:619][781]LogEditorTransaction: Undo Move Actors
+[2020.01.23-18.03.31:085][809]Cmd: TRANSACTION UNDO
+[2020.01.23-18.03.31:086][809]LogEditorTransaction: Undo Move Actors
+[2020.01.23-18.03.35:936][ 97]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-18.03.36:020][102]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.23-18.03.36:029][102]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level_01.Level_01:PersistentLevel' has LevelScriptBlueprint '/Game/Level_01.Level_01:PersistentLevel.Level_01' with GeneratedClass '/Game/Level_01.Level_01_C' with ClassGeneratedBy '/Game/Level_01.Level_01:PersistentLevel.Level_01'
+[2020.01.23-18.03.36:030][102]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.23-18.03.36:030][102]PIE: New page: PIE session: Level_01 (23 sty 2020, 20:03:36)
+[2020.01.23-18.03.36:030][102]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level_01
+[2020.01.23-18.03.36:039][102]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009074s)
+[2020.01.23-18.03.36:040][102]LogAIModule: Creating AISystem for world Level_01
+[2020.01.23-18.03.36:040][102]LogPlayLevel: PIE: World Init took: (0.001088s)
+[2020.01.23-18.03.36:040][102]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_01.Level_01 to /Game/UEDPIE_0_Level_01.Level_01 (0.010464s)
+[2020.01.23-18.03.36:077][102]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2020.01.23-18.03.36:115][102]LogInit: XAudio2 using 'Głośniki (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.01.23-18.03.36:137][102]LogInit: FAudioDevice initialized.
+[2020.01.23-18.03.36:167][102]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.01.23-18.03.36:169][102]LogWorld: Bringing World /Game/UEDPIE_0_Level_01.Level_01 up for play (max tick rate 60) at 2020.01.23-19.03.36
+[2020.01.23-18.03.36:169][102]LogWorld: Bringing up level for play took: 0.000928
+[2020.01.23-18.03.36:183][102]PIE: Play in editor start time for /Game/UEDPIE_0_Level_01 0,37
+[2020.01.23-18.03.36:184][102]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level_01.Level_01:PersistentLevel' has LevelScriptBlueprint '/Game/Level_01.Level_01:PersistentLevel.Level_01' with GeneratedClass '/Game/Level_01.Level_01_C' with ClassGeneratedBy '/Game/Level_01.Level_01:PersistentLevel.Level_01'
+[2020.01.23-18.03.44:665][602]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level_01.Level_01:PersistentLevel' has LevelScriptBlueprint '/Game/Level_01.Level_01:PersistentLevel.Level_01' with GeneratedClass '/Game/Level_01.Level_01_C' with ClassGeneratedBy '/Game/Level_01.Level_01:PersistentLevel.Level_01'
+[2020.01.23-18.03.44:665][602]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.23-18.03.44:700][602]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.23-18.03.44:700][602]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level_01.Level_01:PersistentLevel' has LevelScriptBlueprint '/Game/Level_01.Level_01:PersistentLevel.Level_01' with GeneratedClass '/Game/Level_01.Level_01_C' with ClassGeneratedBy '/Game/Level_01.Level_01:PersistentLevel.Level_01'
+[2020.01.23-18.03.44:739][602]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.23-18.03.44:742][602]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2020.01.23-18.03.44:805][603]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2020.01.23-18.03.50:013][901]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2020.01.23-18.03.52:197][ 28]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.01.23-18.03.52:575][ 49]Cmd: SELECT NONE
+[2020.01.23-18.03.53:948][131]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-18.03.54:013][135]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.23-18.03.54:020][135]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level_01.Level_01:PersistentLevel' has LevelScriptBlueprint '/Game/Level_01.Level_01:PersistentLevel.Level_01' with GeneratedClass '/Game/Level_01.Level_01_C' with ClassGeneratedBy '/Game/Level_01.Level_01:PersistentLevel.Level_01'
+[2020.01.23-18.03.54:020][135]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.23-18.03.54:020][135]PIE: New page: PIE session: Level_01 (23 sty 2020, 20:03:54)
+[2020.01.23-18.03.54:021][135]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level_01
+[2020.01.23-18.03.54:027][135]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006182s)
+[2020.01.23-18.03.54:028][135]LogAIModule: Creating AISystem for world Level_01
+[2020.01.23-18.03.54:028][135]LogPlayLevel: PIE: World Init took: (0.000937s)
+[2020.01.23-18.03.54:028][135]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_01.Level_01 to /Game/UEDPIE_0_Level_01.Level_01 (0.007459s)
+[2020.01.23-18.03.54:067][135]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2020.01.23-18.03.54:102][135]LogInit: XAudio2 using 'Głośniki (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.01.23-18.03.54:125][135]LogInit: FAudioDevice initialized.
+[2020.01.23-18.03.54:157][135]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.01.23-18.03.54:159][135]LogWorld: Bringing World /Game/UEDPIE_0_Level_01.Level_01 up for play (max tick rate 60) at 2020.01.23-19.03.54
+[2020.01.23-18.03.54:160][135]LogWorld: Bringing up level for play took: 0.001250
+[2020.01.23-18.03.54:176][135]PIE: Play in editor start time for /Game/UEDPIE_0_Level_01 0,362
+[2020.01.23-18.03.54:176][135]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level_01.Level_01:PersistentLevel' has LevelScriptBlueprint '/Game/Level_01.Level_01:PersistentLevel.Level_01' with GeneratedClass '/Game/Level_01.Level_01_C' with ClassGeneratedBy '/Game/Level_01.Level_01:PersistentLevel.Level_01'
+[2020.01.23-18.03.56:840][285]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level_01.Level_01:PersistentLevel' has LevelScriptBlueprint '/Game/Level_01.Level_01:PersistentLevel.Level_01' with GeneratedClass '/Game/Level_01.Level_01_C' with ClassGeneratedBy '/Game/Level_01.Level_01:PersistentLevel.Level_01'
+[2020.01.23-18.03.56:841][285]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.23-18.03.56:875][285]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.23-18.03.56:875][285]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level_01.Level_01:PersistentLevel' has LevelScriptBlueprint '/Game/Level_01.Level_01:PersistentLevel.Level_01' with GeneratedClass '/Game/Level_01.Level_01_C' with ClassGeneratedBy '/Game/Level_01.Level_01:PersistentLevel.Level_01'
+[2020.01.23-18.03.56:920][285]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.23-18.03.56:926][285]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2020.01.23-18.03.56:993][286]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2020.01.23-18.04.01:181][517]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2020.01.23-18.04.09:048][976]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.23-18.04.09:573][  5]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2020.01.23-18.04.11:772][135]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.01.23-18.04.12:445][174]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-18.04.12:544][180]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.23-18.04.12:550][180]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level_01.Level_01:PersistentLevel' has LevelScriptBlueprint '/Game/Level_01.Level_01:PersistentLevel.Level_01' with GeneratedClass '/Game/Level_01.Level_01_C' with ClassGeneratedBy '/Game/Level_01.Level_01:PersistentLevel.Level_01'
+[2020.01.23-18.04.12:550][180]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.23-18.04.12:550][180]PIE: New page: PIE session: Level_01 (23 sty 2020, 20:04:12)
+[2020.01.23-18.04.12:550][180]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level_01
+[2020.01.23-18.04.12:554][180]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003216s)
+[2020.01.23-18.04.12:555][180]LogAIModule: Creating AISystem for world Level_01
+[2020.01.23-18.04.12:555][180]LogPlayLevel: PIE: World Init took: (0.001451s)
+[2020.01.23-18.04.12:555][180]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_01.Level_01 to /Game/UEDPIE_0_Level_01.Level_01 (0.004847s)
+[2020.01.23-18.04.12:588][180]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2020.01.23-18.04.12:614][180]LogInit: XAudio2 using 'Głośniki (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.01.23-18.04.12:628][180]LogInit: FAudioDevice initialized.
+[2020.01.23-18.04.12:662][180]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.01.23-18.04.12:666][180]LogWorld: Bringing World /Game/UEDPIE_0_Level_01.Level_01 up for play (max tick rate 60) at 2020.01.23-19.04.12
+[2020.01.23-18.04.12:666][180]LogWorld: Bringing up level for play took: 0.001867
+[2020.01.23-18.04.12:685][180]PIE: Play in editor start time for /Game/UEDPIE_0_Level_01 0,871
+[2020.01.23-18.04.12:685][180]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level_01.Level_01:PersistentLevel' has LevelScriptBlueprint '/Game/Level_01.Level_01:PersistentLevel.Level_01' with GeneratedClass '/Game/Level_01.Level_01_C' with ClassGeneratedBy '/Game/Level_01.Level_01:PersistentLevel.Level_01'
+[2020.01.23-18.04.36:401][593]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level_01.Level_01:PersistentLevel' has LevelScriptBlueprint '/Game/Level_01.Level_01:PersistentLevel.Level_01' with GeneratedClass '/Game/Level_01.Level_01_C' with ClassGeneratedBy '/Game/Level_01.Level_01:PersistentLevel.Level_01'
+[2020.01.23-18.04.36:402][593]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.23-18.04.36:439][593]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.23-18.04.36:439][593]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level_01.Level_01:PersistentLevel' has LevelScriptBlueprint '/Game/Level_01.Level_01:PersistentLevel.Level_01' with GeneratedClass '/Game/Level_01.Level_01_C' with ClassGeneratedBy '/Game/Level_01.Level_01:PersistentLevel.Level_01'
+[2020.01.23-18.04.36:482][593]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.23-18.04.36:486][593]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2020.01.23-18.04.36:554][594]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2020.01.23-18.04.40:285][813]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-18.04.40:402][820]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.23-18.04.40:410][820]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level_01.Level_01:PersistentLevel' has LevelScriptBlueprint '/Game/Level_01.Level_01:PersistentLevel.Level_01' with GeneratedClass '/Game/Level_01.Level_01_C' with ClassGeneratedBy '/Game/Level_01.Level_01:PersistentLevel.Level_01'
+[2020.01.23-18.04.40:410][820]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.23-18.04.40:410][820]PIE: New page: PIE session: Level_01 (23 sty 2020, 20:04:40)
+[2020.01.23-18.04.40:410][820]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level_01
+[2020.01.23-18.04.40:413][820]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003254s)
+[2020.01.23-18.04.40:414][820]LogAIModule: Creating AISystem for world Level_01
+[2020.01.23-18.04.40:414][820]LogPlayLevel: PIE: World Init took: (0.000610s)
+[2020.01.23-18.04.40:414][820]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_01.Level_01 to /Game/UEDPIE_0_Level_01.Level_01 (0.004020s)
+[2020.01.23-18.04.40:445][820]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2020.01.23-18.04.40:472][820]LogInit: XAudio2 using 'Głośniki (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.01.23-18.04.40:484][820]LogInit: FAudioDevice initialized.
+[2020.01.23-18.04.40:510][820]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.01.23-18.04.40:511][820]LogWorld: Bringing World /Game/UEDPIE_0_Level_01.Level_01 up for play (max tick rate 60) at 2020.01.23-19.04.40
+[2020.01.23-18.04.40:512][820]LogWorld: Bringing up level for play took: 0.000629
+[2020.01.23-18.04.40:525][820]PIE: Play in editor start time for /Game/UEDPIE_0_Level_01 0,711
+[2020.01.23-18.04.40:525][820]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level_01.Level_01:PersistentLevel' has LevelScriptBlueprint '/Game/Level_01.Level_01:PersistentLevel.Level_01' with GeneratedClass '/Game/Level_01.Level_01_C' with ClassGeneratedBy '/Game/Level_01.Level_01:PersistentLevel.Level_01'
+[2020.01.23-18.05.45:139][ 52]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level_01.Level_01:PersistentLevel' has LevelScriptBlueprint '/Game/Level_01.Level_01:PersistentLevel.Level_01' with GeneratedClass '/Game/Level_01.Level_01_C' with ClassGeneratedBy '/Game/Level_01.Level_01:PersistentLevel.Level_01'
+[2020.01.23-18.05.45:139][ 52]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.23-18.05.45:181][ 52]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.23-18.05.45:181][ 52]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level_01.Level_01:PersistentLevel' has LevelScriptBlueprint '/Game/Level_01.Level_01:PersistentLevel.Level_01' with GeneratedClass '/Game/Level_01.Level_01_C' with ClassGeneratedBy '/Game/Level_01.Level_01:PersistentLevel.Level_01'
+[2020.01.23-18.05.45:219][ 52]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.23-18.05.45:223][ 52]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2020.01.23-18.05.45:279][ 53]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2020.01.23-18.05.50:876][368]LogBlueprintActionDatabase: Requesting refresh due to module change: NewLevelDialog (loaded)
+[2020.01.23-18.05.58:126][368]LogSlate: Window 'New Level' being destroyed
+[2020.01.23-18.06.47:502][220]LogSlate: Window 'Add Content to the Project' being destroyed
+[2020.01.23-18.06.59:700][942]LogUObjectHash: Compacting FUObjectHashTables data took   6.69ms
+[2020.01.23-18.06.59:746][942]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level_01" FILE="D:/PULPIT/studia/programowanie/UnrealEngine/NataliaNestorowicz/Content/Level_01.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.01.23-18.06.59:794][942]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2020.01.23-18.07.00:102][942]LogSavePackage: Moving 'D:/PULPIT/studia/programowanie/UnrealEngine/NataliaNestorowicz/Saved/Level_01C1085B3340097ADFD70AA6B4FC5FAD90.tmp' to 'D:/PULPIT/studia/programowanie/UnrealEngine/NataliaNestorowicz/Content/Level_01.umap'
+[2020.01.23-18.07.00:117][942]LogFileHelpers: Saving map 'Level_01' took 0.371
+[2020.01.23-18.07.10:948][580]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.01.23-18.07.14:923][580]LogTexture: Display: Building textures: T_ML_FineRubber (AutoDXT, 2048X2048)
+[2020.01.23-18.07.14:925][580]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.01.23-18.07.14:999][580]LogUObjectHash: Compacting FUObjectHashTables data took   4.08ms
+[2020.01.23-18.07.37:723][580]LogSlate: Window 'Delete Assets' being destroyed
+[2020.01.23-18.07.37:736][580]LogSlate: Window 'Level_01' being destroyed
+[2020.01.23-18.07.37:791][580]LogUObjectGlobals: Force Deleting 55 Package(s):
+	Asset Name: /Game/FirstPerson/Animations/FirstPerson_Run.FirstPerson_Run
+	Asset Name: /Game/FirstPerson/Animations/FirstPerson_JumpStart.FirstPerson_JumpStart
+	Asset Name: /Game/FirstPerson/Animations/FirstPerson_JumpLoop.FirstPerson_JumpLoop
+	Asset Name: /Game/FirstPerson/Animations/FirstPerson_JumpEnd.FirstPerson_JumpEnd
+	Asset Name: /Game/FirstPerson/Animations/FirstPerson_Idle.FirstPerson_Idle
+	Asset Name: /Game/FirstPerson/Character/Mesh/SK_Mannequin_Arms_Skeleton.SK_Mannequin_Arms_Skeleton
+	Asset Name: /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP
+	Asset Name: /Game/FirstPerson/Animations/FirstPerson_Fire.FirstPerson_Fire
+	Asset Name: /Game/FirstPerson/Animations/FirstPersonFire_Montage.FirstPersonFire_Montage
+	Asset Name: /Game/FirstPerson/Meshes/BaseMaterial.BaseMaterial
+[2020.01.23-18.07.41:546][580]LogStaticMesh: Building static mesh FirstPersonProjectileMesh...
+[2020.01.23-18.07.41:553][580]LogBlueprintActionDatabase: Requesting refresh due to module change: MeshBuilder (loaded)
+[2020.01.23-18.07.41:572][580]LogStaticMesh: Built static mesh [0.03s] /Game/FirstPerson/Meshes/FirstPersonProjectileMesh.FirstPersonProjectileMesh
+[2020.01.23-18.07.41:601][580]LogBlueprintActionDatabase: Requesting refresh due to module change: HierarchicalLODUtilities (loaded)
+[2020.01.23-18.07.41:612][580]LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2020.01.23-18.07.41:622][580]LogMaterial: Warning: D:\PULPIT\studia\programowanie\UnrealEngine\NataliaNestorowicz\Content\FirstPerson\Character\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.01.23-18.07.41:623][580]LogMaterial: 	Missing Material Function
+[2020.01.23-18.07.41:623][580]LogMaterial: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2020.01.23-18.07.41:623][580]LogMaterial: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2020.01.23-18.07.41:623][580]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.01.23-18.07.41:623][580]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2020.01.23-18.07.41:623][580]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2020.01.23-18.07.41:623][580]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2020.01.23-18.07.41:623][580]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2020.01.23-18.07.41:629][580]LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2020.01.23-18.07.41:632][580]LogMaterial: Warning: D:\PULPIT\studia\programowanie\UnrealEngine\NataliaNestorowicz\Content\FirstPerson\Character\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.01.23-18.07.41:632][580]LogMaterial: 	Missing Material Function
+[2020.01.23-18.07.41:632][580]LogMaterial: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2020.01.23-18.07.41:632][580]LogMaterial: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2020.01.23-18.07.41:632][580]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.01.23-18.07.41:632][580]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2020.01.23-18.07.41:632][580]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2020.01.23-18.07.41:632][580]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2020.01.23-18.07.41:632][580]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2020.01.23-18.07.41:636][580]LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2020.01.23-18.07.41:638][580]LogMaterial: Warning: D:\PULPIT\studia\programowanie\UnrealEngine\NataliaNestorowicz\Content\FirstPerson\Character\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.01.23-18.07.41:638][580]LogMaterial: 	Missing Material Function
+[2020.01.23-18.07.41:638][580]LogMaterial: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2020.01.23-18.07.41:638][580]LogMaterial: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2020.01.23-18.07.41:638][580]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.01.23-18.07.41:638][580]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2020.01.23-18.07.41:638][580]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2020.01.23-18.07.41:638][580]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2020.01.23-18.07.41:638][580]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2020.01.23-18.07.41:642][580]LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2020.01.23-18.07.41:645][580]LogMaterial: Warning: D:\PULPIT\studia\programowanie\UnrealEngine\NataliaNestorowicz\Content\FirstPerson\Character\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.01.23-18.07.41:645][580]LogMaterial: 	Missing Material Function
+[2020.01.23-18.07.41:645][580]LogMaterial: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2020.01.23-18.07.41:645][580]LogMaterial: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2020.01.23-18.07.41:645][580]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.01.23-18.07.41:645][580]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2020.01.23-18.07.41:645][580]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2020.01.23-18.07.41:645][580]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2020.01.23-18.07.41:645][580]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2020.01.23-18.07.41:648][580]LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2020.01.23-18.07.41:650][580]LogMaterial: Warning: D:\PULPIT\studia\programowanie\UnrealEngine\NataliaNestorowicz\Content\FirstPerson\Character\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.01.23-18.07.41:650][580]LogMaterial: 	Missing Material Function
+[2020.01.23-18.07.41:650][580]LogMaterial: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2020.01.23-18.07.41:650][580]LogMaterial: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2020.01.23-18.07.41:650][580]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.01.23-18.07.41:650][580]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2020.01.23-18.07.41:650][580]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2020.01.23-18.07.41:650][580]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2020.01.23-18.07.41:650][580]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2020.01.23-18.07.41:654][580]LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2020.01.23-18.07.41:655][580]LogMaterial: Warning: D:\PULPIT\studia\programowanie\UnrealEngine\NataliaNestorowicz\Content\FirstPerson\Character\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.01.23-18.07.41:655][580]LogMaterial: 	Missing Material Function
+[2020.01.23-18.07.41:655][580]LogMaterial: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2020.01.23-18.07.41:655][580]LogMaterial: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2020.01.23-18.07.41:655][580]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.01.23-18.07.41:655][580]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2020.01.23-18.07.41:655][580]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2020.01.23-18.07.41:656][580]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2020.01.23-18.07.41:656][580]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2020.01.23-18.07.41:659][580]LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2020.01.23-18.07.41:661][580]LogMaterial: Warning: D:\PULPIT\studia\programowanie\UnrealEngine\NataliaNestorowicz\Content\FirstPerson\Character\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.01.23-18.07.41:661][580]LogMaterial: 	Missing Material Function
+[2020.01.23-18.07.41:661][580]LogMaterial: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2020.01.23-18.07.41:661][580]LogMaterial: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2020.01.23-18.07.41:661][580]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.01.23-18.07.41:661][580]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2020.01.23-18.07.41:661][580]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2020.01.23-18.07.41:662][580]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2020.01.23-18.07.41:662][580]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2020.01.23-18.07.41:665][580]LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2020.01.23-18.07.41:667][580]LogMaterial: Warning: D:\PULPIT\studia\programowanie\UnrealEngine\NataliaNestorowicz\Content\FirstPerson\Character\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.01.23-18.07.41:667][580]LogMaterial: 	Missing Material Function
+[2020.01.23-18.07.41:667][580]LogMaterial: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2020.01.23-18.07.41:667][580]LogMaterial: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2020.01.23-18.07.41:667][580]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.01.23-18.07.41:667][580]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2020.01.23-18.07.41:667][580]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2020.01.23-18.07.41:667][580]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2020.01.23-18.07.41:667][580]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2020.01.23-18.07.41:670][580]LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2020.01.23-18.07.41:672][580]LogMaterial: Warning: D:\PULPIT\studia\programowanie\UnrealEngine\NataliaNestorowicz\Content\FirstPerson\Character\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.01.23-18.07.41:673][580]LogMaterial: 	Missing Material Function
+[2020.01.23-18.07.41:673][580]LogMaterial: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2020.01.23-18.07.41:673][580]LogMaterial: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2020.01.23-18.07.41:673][580]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.01.23-18.07.41:673][580]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2020.01.23-18.07.41:673][580]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2020.01.23-18.07.41:673][580]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2020.01.23-18.07.41:673][580]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2020.01.23-18.07.41:676][580]LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2020.01.23-18.07.41:678][580]LogMaterial: Warning: D:\PULPIT\studia\programowanie\UnrealEngine\NataliaNestorowicz\Content\FirstPerson\Character\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.01.23-18.07.41:679][580]LogMaterial: 	Missing Material Function
+[2020.01.23-18.07.41:679][580]LogMaterial: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2020.01.23-18.07.41:679][580]LogMaterial: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2020.01.23-18.07.41:679][580]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.01.23-18.07.41:679][580]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2020.01.23-18.07.41:679][580]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2020.01.23-18.07.41:679][580]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2020.01.23-18.07.41:679][580]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2020.01.23-18.07.41:682][580]LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2020.01.23-18.07.41:684][580]LogMaterial: Warning: D:\PULPIT\studia\programowanie\UnrealEngine\NataliaNestorowicz\Content\FirstPerson\Character\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.01.23-18.07.41:684][580]LogMaterial: 	Missing Material Function
+[2020.01.23-18.07.41:684][580]LogMaterial: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2020.01.23-18.07.41:684][580]LogMaterial: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2020.01.23-18.07.41:684][580]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.01.23-18.07.41:684][580]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2020.01.23-18.07.41:684][580]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2020.01.23-18.07.41:684][580]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2020.01.23-18.07.41:684][580]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2020.01.23-18.07.41:686][580]LogSkeletalMesh: Building Skeletal Mesh SK_Mannequin_Arms...
+[2020.01.23-18.07.41:722][580]LogSkeletalMesh: Built Skeletal Mesh [0.04s] /Game/FirstPerson/Character/Mesh/SK_Mannequin_Arms.SK_Mannequin_Arms
+[2020.01.23-18.07.41:750][580]LogSkeletalMesh: Building Skeletal Mesh SK_Mannequin_Arms...
+[2020.01.23-18.07.41:783][580]LogSkeletalMesh: Built Skeletal Mesh [0.03s] /Game/FirstPerson/Character/Mesh/SK_Mannequin_Arms.SK_Mannequin_Arms
+[2020.01.23-18.07.41:789][580]LogSkeletalMesh: Building Skeletal Mesh SK_Mannequin_Arms...
+[2020.01.23-18.07.41:821][580]LogSkeletalMesh: Built Skeletal Mesh [0.03s] /Game/FirstPerson/Character/Mesh/SK_Mannequin_Arms.SK_Mannequin_Arms
+[2020.01.23-18.07.41:867][580]LogMaterial: Display: Missing cached shader map for material M_FPGun, compiling. 
+[2020.01.23-18.07.41:869][580]LogMaterial: Warning: D:\PULPIT\studia\programowanie\UnrealEngine\NataliaNestorowicz\Content\FirstPerson\FPWeapon\Materials\M_FPGun.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.01.23-18.07.41:869][580]LogMaterial: 	Missing Material Function
+[2020.01.23-18.07.41:869][580]LogMaterial: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2020.01.23-18.07.41:869][580]LogMaterial: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2020.01.23-18.07.41:869][580]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2020.01.23-18.07.41:869][580]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2020.01.23-18.07.41:869][580]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2020.01.23-18.07.41:869][580]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2020.01.23-18.07.41:872][580]LogMaterial: Display: Missing cached shader map for material M_FPGun, compiling. 
+[2020.01.23-18.07.41:874][580]LogMaterial: Warning: D:\PULPIT\studia\programowanie\UnrealEngine\NataliaNestorowicz\Content\FirstPerson\FPWeapon\Materials\M_FPGun.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.01.23-18.07.41:874][580]LogMaterial: 	Missing Material Function
+[2020.01.23-18.07.41:874][580]LogMaterial: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2020.01.23-18.07.41:874][580]LogMaterial: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2020.01.23-18.07.41:874][580]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2020.01.23-18.07.41:874][580]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2020.01.23-18.07.41:874][580]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2020.01.23-18.07.41:874][580]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2020.01.23-18.07.41:877][580]LogMaterial: Display: Missing cached shader map for material M_FPGun, compiling. 
+[2020.01.23-18.07.41:879][580]LogMaterial: Warning: D:\PULPIT\studia\programowanie\UnrealEngine\NataliaNestorowicz\Content\FirstPerson\FPWeapon\Materials\M_FPGun.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.01.23-18.07.41:880][580]LogMaterial: 	Missing Material Function
+[2020.01.23-18.07.41:880][580]LogMaterial: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2020.01.23-18.07.41:880][580]LogMaterial: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2020.01.23-18.07.41:880][580]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2020.01.23-18.07.41:880][580]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2020.01.23-18.07.41:880][580]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2020.01.23-18.07.41:880][580]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2020.01.23-18.07.41:884][580]LogMaterial: Display: Missing cached shader map for material M_FPGun, compiling. 
+[2020.01.23-18.07.41:886][580]LogMaterial: Warning: D:\PULPIT\studia\programowanie\UnrealEngine\NataliaNestorowicz\Content\FirstPerson\FPWeapon\Materials\M_FPGun.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.01.23-18.07.41:886][580]LogMaterial: 	Missing Material Function
+[2020.01.23-18.07.41:886][580]LogMaterial: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2020.01.23-18.07.41:886][580]LogMaterial: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2020.01.23-18.07.41:886][580]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2020.01.23-18.07.41:886][580]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2020.01.23-18.07.41:886][580]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2020.01.23-18.07.41:886][580]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2020.01.23-18.07.41:888][580]LogMaterial: Display: Missing cached shader map for material M_FPGun, compiling. 
+[2020.01.23-18.07.41:890][580]LogMaterial: Warning: D:\PULPIT\studia\programowanie\UnrealEngine\NataliaNestorowicz\Content\FirstPerson\FPWeapon\Materials\M_FPGun.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.01.23-18.07.41:890][580]LogMaterial: 	Missing Material Function
+[2020.01.23-18.07.41:890][580]LogMaterial: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2020.01.23-18.07.41:890][580]LogMaterial: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2020.01.23-18.07.41:890][580]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2020.01.23-18.07.41:890][580]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2020.01.23-18.07.41:890][580]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2020.01.23-18.07.41:890][580]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2020.01.23-18.07.41:893][580]LogMaterial: Display: Missing cached shader map for material M_FPGun, compiling. 
+[2020.01.23-18.07.41:895][580]LogMaterial: Warning: D:\PULPIT\studia\programowanie\UnrealEngine\NataliaNestorowicz\Content\FirstPerson\FPWeapon\Materials\M_FPGun.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.01.23-18.07.41:895][580]LogMaterial: 	Missing Material Function
+[2020.01.23-18.07.41:895][580]LogMaterial: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2020.01.23-18.07.41:895][580]LogMaterial: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2020.01.23-18.07.41:895][580]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2020.01.23-18.07.41:895][580]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2020.01.23-18.07.41:895][580]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2020.01.23-18.07.41:895][580]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2020.01.23-18.07.41:898][580]LogMaterial: Display: Missing cached shader map for material M_FPGun, compiling. 
+[2020.01.23-18.07.41:901][580]LogMaterial: Warning: D:\PULPIT\studia\programowanie\UnrealEngine\NataliaNestorowicz\Content\FirstPerson\FPWeapon\Materials\M_FPGun.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.01.23-18.07.41:901][580]LogMaterial: 	Missing Material Function
+[2020.01.23-18.07.41:901][580]LogMaterial: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2020.01.23-18.07.41:901][580]LogMaterial: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2020.01.23-18.07.41:901][580]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2020.01.23-18.07.41:901][580]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2020.01.23-18.07.41:901][580]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2020.01.23-18.07.41:901][580]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2020.01.23-18.07.41:904][580]LogMaterial: Display: Missing cached shader map for material M_FPGun, compiling. 
+[2020.01.23-18.07.41:907][580]LogMaterial: Warning: D:\PULPIT\studia\programowanie\UnrealEngine\NataliaNestorowicz\Content\FirstPerson\FPWeapon\Materials\M_FPGun.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.01.23-18.07.41:907][580]LogMaterial: 	Missing Material Function
+[2020.01.23-18.07.41:907][580]LogMaterial: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2020.01.23-18.07.41:907][580]LogMaterial: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2020.01.23-18.07.41:907][580]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2020.01.23-18.07.41:907][580]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2020.01.23-18.07.41:907][580]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2020.01.23-18.07.41:907][580]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2020.01.23-18.07.41:910][580]LogMaterial: Display: Missing cached shader map for material M_FPGun, compiling. 
+[2020.01.23-18.07.41:914][580]LogMaterial: Warning: D:\PULPIT\studia\programowanie\UnrealEngine\NataliaNestorowicz\Content\FirstPerson\FPWeapon\Materials\M_FPGun.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.01.23-18.07.41:914][580]LogMaterial: 	Missing Material Function
+[2020.01.23-18.07.41:914][580]LogMaterial: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2020.01.23-18.07.41:914][580]LogMaterial: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2020.01.23-18.07.41:914][580]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2020.01.23-18.07.41:914][580]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2020.01.23-18.07.41:914][580]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2020.01.23-18.07.41:914][580]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2020.01.23-18.07.41:918][580]LogMaterial: Display: Missing cached shader map for material M_FPGun, compiling. 
+[2020.01.23-18.07.41:920][580]LogMaterial: Warning: D:\PULPIT\studia\programowanie\UnrealEngine\NataliaNestorowicz\Content\FirstPerson\FPWeapon\Materials\M_FPGun.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.01.23-18.07.41:920][580]LogMaterial: 	Missing Material Function
+[2020.01.23-18.07.41:920][580]LogMaterial: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2020.01.23-18.07.41:920][580]LogMaterial: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2020.01.23-18.07.41:920][580]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2020.01.23-18.07.41:920][580]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2020.01.23-18.07.41:920][580]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2020.01.23-18.07.41:920][580]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2020.01.23-18.07.41:921][580]LogSkeletalMesh: Building Skeletal Mesh SK_FPGun...
+[2020.01.23-18.07.41:941][580]LogSkeletalMesh: Built Skeletal Mesh [0.02s] /Game/FirstPerson/FPWeapon/Mesh/SK_FPGun.SK_FPGun
+[2020.01.23-18.07.41:946][580]LogSkeletalMesh: Building Skeletal Mesh SK_FPGun...
+[2020.01.23-18.07.41:965][580]LogSkeletalMesh: Built Skeletal Mesh [0.02s] /Game/FirstPerson/FPWeapon/Mesh/SK_FPGun.SK_FPGun
+[2020.01.23-18.07.42:043][580]LogUObjectHash: Compacting FUObjectHashTables data took   4.92ms
+[2020.01.23-18.07.42:634][580]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.01.23-18.07.43:893][580]LogStats: FPlatformStackWalk::StackWalkAndDump -  1.259 s
+[2020.01.23-18.07.43:893][580]LogOutputDevice: Error: === Handled ensure: ===
+[2020.01.23-18.07.43:894][580]LogOutputDevice: Error: 
+[2020.01.23-18.07.43:894][580]LogOutputDevice: Error: Ensure condition failed: CurObject != 0 [File:D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Private\ObjectTools.cpp] [Line: 2639]
+[2020.01.23-18.07.43:894][580]LogOutputDevice: Error: 
+[2020.01.23-18.07.43:894][580]LogOutputDevice: Error: Stack: 
+[2020.01.23-18.07.43:894][580]LogOutputDevice: Error: [Callstack] 0x00007ffffa974bc9 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.01.23-18.07.43:894][580]LogOutputDevice: Error: [Callstack] 0x00007ffffa29e059 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.01.23-18.07.43:894][580]LogOutputDevice: Error: [Callstack] 0x00007ffff9afe42f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.01.23-18.07.43:894][580]LogOutputDevice: Error: [Callstack] 0x00007ffff9d5f488 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.01.23-18.07.43:894][580]LogOutputDevice: Error: [Callstack] 0x00007ffff9d597c4 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.01.23-18.07.43:894][580]LogOutputDevice: Error: [Callstack] 0x00007ff801ba2a12 UE4Editor-Slate.dll!UnknownFunction []
+[2020.01.23-18.07.43:894][580]LogOutputDevice: Error: [Callstack] 0x00007ff8019f4021 UE4Editor-Slate.dll!UnknownFunction []
+[2020.01.23-18.07.43:894][580]LogOutputDevice: Error: [Callstack] 0x00007ff801a70301 UE4Editor-Slate.dll!UnknownFunction []
+[2020.01.23-18.07.43:894][580]LogOutputDevice: Error: [Callstack] 0x00007ff801a5aaca UE4Editor-Slate.dll!UnknownFunction []
+[2020.01.23-18.07.43:894][580]LogOutputDevice: Error: [Callstack] 0x00007ff801a50414 UE4Editor-Slate.dll!UnknownFunction []
+[2020.01.23-18.07.43:894][580]LogOutputDevice: Error: [Callstack] 0x00007ff840abb8e0 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.01.23-18.07.43:894][580]LogOutputDevice: Error: [Callstack] 0x00007ff840aaef9f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.01.23-18.07.43:894][580]LogOutputDevice: Error: [Callstack] 0x00007ff840abd77f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.01.23-18.07.43:894][580]LogOutputDevice: Error: [Callstack] 0x00007ff840aac090 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.01.23-18.07.43:894][580]LogOutputDevice: Error: [Callstack] 0x00007ff856e75b6d USER32.dll!UnknownFunction []
+[2020.01.23-18.07.43:894][580]LogOutputDevice: Error: [Callstack] 0x00007ff856e75562 USER32.dll!UnknownFunction []
+[2020.01.23-18.07.43:894][580]LogOutputDevice: Error: [Callstack] 0x00007ff840abe899 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.01.23-18.07.43:894][580]LogOutputDevice: Error: [Callstack] 0x00007ff801a7aa95 UE4Editor-Slate.dll!UnknownFunction []
+[2020.01.23-18.07.43:894][580]LogOutputDevice: Error: [Callstack] 0x00007ff801a2012f UE4Editor-Slate.dll!UnknownFunction []
+[2020.01.23-18.07.43:894][580]LogOutputDevice: Error: [Callstack] 0x00007ffff9de2ce6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.01.23-18.07.43:894][580]LogOutputDevice: Error: [Callstack] 0x00007ffffa292fd5 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.01.23-18.07.43:894][580]LogOutputDevice: Error: [Callstack] 0x00007fffd42b4851 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2020.01.23-18.07.43:894][580]LogOutputDevice: Error: [Callstack] 0x00007fffd43a8b89 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2020.01.23-18.07.43:894][580]LogOutputDevice: Error: [Callstack] 0x00007fffd43a225f UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2020.01.23-18.07.43:894][580]LogOutputDevice: Error: [Callstack] 0x00007fffd431120c UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2020.01.23-18.07.43:894][580]LogOutputDevice: Error: [Callstack] 0x00007fffd42bb3f4 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2020.01.23-18.07.43:894][580]LogOutputDevice: Error: [Callstack] 0x00007ff801ba2a12 UE4Editor-Slate.dll!UnknownFunction []
+[2020.01.23-18.07.43:894][580]LogOutputDevice: Error: [Callstack] 0x00007ff8019f4021 UE4Editor-Slate.dll!UnknownFunction []
+[2020.01.23-18.07.43:894][580]LogOutputDevice: Error: [Callstack] 0x00007ff801a70301 UE4Editor-Slate.dll!UnknownFunction []
+[2020.01.23-18.07.43:894][580]LogOutputDevice: Error: [Callstack] 0x00007ff801a5aaca UE4Editor-Slate.dll!UnknownFunction []
+[2020.01.23-18.07.43:894][580]LogOutputDevice: Error: [Callstack] 0x00007ff801a50414 UE4Editor-Slate.dll!UnknownFunction []
+[2020.01.23-18.07.43:894][580]LogOutputDevice: Error: [Callstack] 0x00007ff840abb8e0 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.01.23-18.07.43:894][580]LogOutputDevice: Error: [Callstack] 0x00007ff840aaef9f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.01.23-18.07.43:894][580]LogOutputDevice: Error: [Callstack] 0x00007ff840abd77f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.01.23-18.07.43:894][580]LogOutputDevice: Error: [Callstack] 0x00007ff840aac090 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.01.23-18.07.43:894][580]LogOutputDevice: Error: [Callstack] 0x00007ff856e75b6d USER32.dll!UnknownFunction []
+[2020.01.23-18.07.43:894][580]LogOutputDevice: Error: [Callstack] 0x00007ff856e75562 USER32.dll!UnknownFunction []
+[2020.01.23-18.07.43:894][580]LogOutputDevice: Error: [Callstack] 0x00007ff840abe946 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.01.23-18.07.43:894][580]LogOutputDevice: Error: [Callstack] 0x00007ff73f315d3e UE4Editor.exe!UnknownFunction []
+[2020.01.23-18.07.43:894][580]LogOutputDevice: Error: [Callstack] 0x00007ff73f32554c UE4Editor.exe!UnknownFunction []
+[2020.01.23-18.07.43:894][580]LogOutputDevice: Error: [Callstack] 0x00007ff73f3255ca UE4Editor.exe!UnknownFunction []
+[2020.01.23-18.07.43:894][580]LogOutputDevice: Error: [Callstack] 0x00007ff73f33316c UE4Editor.exe!UnknownFunction []
+[2020.01.23-18.07.43:894][580]LogOutputDevice: Error: [Callstack] 0x00007ff73f335b8e UE4Editor.exe!UnknownFunction []
+[2020.01.23-18.07.43:894][580]LogOutputDevice: Error: [Callstack] 0x00007ff856207bd4 KERNEL32.DLL!UnknownFunction []
+[2020.01.23-18.07.43:894][580]LogOutputDevice: Error: [Callstack] 0x00007ff8570aced1 ntdll.dll!UnknownFunction []
+[2020.01.23-18.07.43:894][580]LogOutputDevice: Error: 
+[2020.01.23-18.07.43:904][580]LogStats:                SubmitErrorReport -  0.001 s
